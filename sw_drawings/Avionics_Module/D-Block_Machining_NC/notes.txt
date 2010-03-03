@@ -1,0 +1,8 @@
+1) uses 1/2 roughing endmill
+2-3) uses 1/2 finishing endmill
+4) uses 1/8 center drill
+5) uses 0.11dia drill
+
+Zero is 1 inch above a piece of 0.5" x 5.0" x 2.0" flat bar, in the back-left corner of the stock
+
+

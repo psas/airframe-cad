@@ -1,0 +1,654 @@
+
+
+
+
+.6331
+.5819
+
+
+
+
+                    bellCrankCenterRadi: 1.8500
+                            servoRadius: 0.5750
+             primaryBaseBellCrankRadius: 0.6331
+                 primaryBellCrankRadius: 0.7331
+               bellCrankAngularRotation: 67.3631
+               secondaryBellCrankRadius: 0.5819
+                       controlArmRadius: 1.5500
+                controlArmAngleRotation: 24.0316
+                       linkageRodLength: 1.3081
+                    betaBellCrankRadius: 1.4168
+                betaBellCrankBallRadius: 0.4732
+                 betaBellCrankRodLength: 1.0018
+               servoOunceInchesOfTorque: 128
+                   servoBallForceOunces: 222.6087
+    primaryBellCrankOunceInchesOfTorque: 140.9441
+      secondaryBellCrankBallForceOunces: 242.2335
+            controlArmTorqueOunceInches: 375.4619
+                 controlArmForceNewtons: 104.3836
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           bellCrankCenterRadi: 1.8500
+                   servoRadius: 0.6750
+    primaryBaseBellCrankRadius: 0.6331
+        primaryBellCrankRadius: 0.6331
+      bellCrankAngularRotation: 97.8496
+      secondaryBellCrankRadius: 0.5819
+              controlArmRadius: 1.2500
+       controlArmAngleRotation: 41.0851
+              linkageRodLength: 1.3081
+           betaBellCrankRadius: 1.4168
+       betaBellCrankBallRadius: 0.4732
+
+
+
+
+
+
+
+
+
+
+
+
+
+ans = 
+
+           bellCrankCenterRadi: 1.8500
+                   servoRadius: 0.3750
+    primaryBaseBellCrankRadius: 0.6331
+        primaryBellCrankRadius: 0.9331
+      bellCrankAngularRotation: 33.0175
+      secondaryBellCrankRadius: 0.5819
+              controlArmRadius: 0.6500
+       controlArmAngleRotation: 29.4725
+              linkageRodLength: 1.3081
+
+
+CHOOSEN
+ans = 
+
+           bellCrankCenterRadi: 1.8500
+                   servoRadius: 0.3750
+    primaryBaseBellCrankRadius: 0.6331
+        primaryBellCrankRadius: 0.9331
+      bellCrankAngularRotation: 33.0175
+      secondaryBellCrankRadius: 0.5819
+              controlArmRadius: 0.7500
+       controlArmAngleRotation: 25.4714
+              linkageRodLength: 1.3081
+
+
+ans = 
+
+           bellCrankCenterRadi: 1.8500
+                   servoRadius: 0.3750
+    primaryBaseBellCrankRadius: 0.6331
+        primaryBellCrankRadius: 0.9331
+      bellCrankAngularRotation: 33.0175
+      secondaryBellCrankRadius: 0.5819
+              controlArmRadius: 0.8500
+       controlArmAngleRotation: 22.4331
+              linkageRodLength: 1.3081
+
+
+ans = 
+
+           bellCrankCenterRadi: 1.8500
+                   servoRadius: 0.4750
+    primaryBaseBellCrankRadius: 0.6331
+        primaryBellCrankRadius: 0.8331
+      bellCrankAngularRotation: 47.5493
+      secondaryBellCrankRadius: 0.5819
+              controlArmRadius: 0.6500
+       controlArmAngleRotation: 42.3078
+              linkageRodLength: 1.3081
+
+
+ans = 
+
+           bellCrankCenterRadi: 1.8500
+                   servoRadius: 0.4750
+    primaryBaseBellCrankRadius: 0.6331
+        primaryBellCrankRadius: 0.8331
+      bellCrankAngularRotation: 47.5493
+      secondaryBellCrankRadius: 0.5819
+              controlArmRadius: 0.7500
+       controlArmAngleRotation: 36.4510
+              linkageRodLength: 1.3081
+
+
+ans = 
+
+           bellCrankCenterRadi: 1.8500
+                   servoRadius: 0.4750
+    primaryBaseBellCrankRadius: 0.6331
+        primaryBellCrankRadius: 0.8331
+      bellCrankAngularRotation: 47.5493
+      secondaryBellCrankRadius: 0.5819
+              controlArmRadius: 0.8500
+       controlArmAngleRotation: 32.0388
+              linkageRodLength: 1.3081
+
+
+ans = 
+
+           bellCrankCenterRadi: 1.8500
+                   servoRadius: 0.5750
+    primaryBaseBellCrankRadius: 0.6331
+        primaryBellCrankRadius: 0.7331
+      bellCrankAngularRotation: 67.3631
+      secondaryBellCrankRadius: 0.5819
+              controlArmRadius: 0.8500
+       controlArmAngleRotation: 44.6210
+              linkageRodLength: 1.3081
+
+
+ans = 
+
+           bellCrankCenterRadi: 1.9000
+                   servoRadius: 0.3750
+    primaryBaseBellCrankRadius: 0.6685
+        primaryBellCrankRadius: 0.9685
+      bellCrankAngularRotation: 31.7797
+      secondaryBellCrankRadius: 0.5465
+              controlArmRadius: 0.6500
+       controlArmAngleRotation: 26.6167
+              linkageRodLength: 1.3435
+
+
+ans = 
+
+           bellCrankCenterRadi: 1.9000
+                   servoRadius: 0.3750
+    primaryBaseBellCrankRadius: 0.6685
+        primaryBellCrankRadius: 0.9685
+      bellCrankAngularRotation: 31.7797
+      secondaryBellCrankRadius: 0.5465
+              controlArmRadius: 0.7500
+       controlArmAngleRotation: 23.0154
+              linkageRodLength: 1.3435
+
+
+ans = 
+
+           bellCrankCenterRadi: 1.9000
+                   servoRadius: 0.3750
+    primaryBaseBellCrankRadius: 0.6685
+        primaryBellCrankRadius: 0.9685
+      bellCrankAngularRotation: 31.7797
+      secondaryBellCrankRadius: 0.5465
+              controlArmRadius: 0.8500
+       controlArmAngleRotation: 20.2771
+              linkageRodLength: 1.3435
+
+
+ans = 
+
+           bellCrankCenterRadi: 1.9000
+                   servoRadius: 0.4750
+    primaryBaseBellCrankRadius: 0.6685
+        primaryBellCrankRadius: 0.8685
+      bellCrankAngularRotation: 45.5023
+      secondaryBellCrankRadius: 0.5465
+              controlArmRadius: 0.6500
+       controlArmAngleRotation: 37.9492
+              linkageRodLength: 1.3435
+
+
+ans = 
+
+           bellCrankCenterRadi: 1.9000
+                   servoRadius: 0.4750
+    primaryBaseBellCrankRadius: 0.6685
+        primaryBellCrankRadius: 0.8685
+      bellCrankAngularRotation: 45.5023
+      secondaryBellCrankRadius: 0.5465
+              controlArmRadius: 0.7500
+       controlArmAngleRotation: 32.7348
+              linkageRodLength: 1.3435
+
+
+ans = 
+
+           bellCrankCenterRadi: 1.9000
+                   servoRadius: 0.4750
+    primaryBaseBellCrankRadius: 0.6685
+        primaryBellCrankRadius: 0.8685
+      bellCrankAngularRotation: 45.5023
+      secondaryBellCrankRadius: 0.5465
+              controlArmRadius: 0.8500
+       controlArmAngleRotation: 28.7945
+              linkageRodLength: 1.3435
+
+
+ans = 
+
+           bellCrankCenterRadi: 1.9000
+                   servoRadius: 0.5750
+    primaryBaseBellCrankRadius: 0.6685
+        primaryBellCrankRadius: 0.7685
+      bellCrankAngularRotation: 63.8843
+      secondaryBellCrankRadius: 0.5465
+              controlArmRadius: 0.8500
+       controlArmAngleRotation: 39.7726
+              linkageRodLength: 1.3435
+
+
+ans = 
+
+           bellCrankCenterRadi: 1.9500
+                   servoRadius: 0.3750
+    primaryBaseBellCrankRadius: 0.7039
+        primaryBellCrankRadius: 1.0039
+      bellCrankAngularRotation: 30.6324
+      secondaryBellCrankRadius: 0.5111
+              controlArmRadius: 0.6500
+       controlArmAngleRotation: 23.9772
+              linkageRodLength: 1.3789
+
+
+ans = 
+
+           bellCrankCenterRadi: 1.9500
+                   servoRadius: 0.3750
+    primaryBaseBellCrankRadius: 0.7039
+        primaryBellCrankRadius: 1.0039
+      bellCrankAngularRotation: 30.6324
+      secondaryBellCrankRadius: 0.5111
+              controlArmRadius: 0.7500
+       controlArmAngleRotation: 20.7420
+              linkageRodLength: 1.3789
+
+
+ans = 
+
+           bellCrankCenterRadi: 1.9500
+                   servoRadius: 0.4750
+    primaryBaseBellCrankRadius: 0.7039
+        primaryBellCrankRadius: 0.9039
+      bellCrankAngularRotation: 43.6289
+      secondaryBellCrankRadius: 0.5111
+              controlArmRadius: 0.6500
+       controlArmAngleRotation: 33.9815
+              linkageRodLength: 1.3789
+
+
+ans = 
+
+           bellCrankCenterRadi: 1.9500
+                   servoRadius: 0.4750
+    primaryBaseBellCrankRadius: 0.7039
+        primaryBellCrankRadius: 0.9039
+      bellCrankAngularRotation: 43.6289
+      secondaryBellCrankRadius: 0.5111
+              controlArmRadius: 0.7500
+       controlArmAngleRotation: 29.3404
+              linkageRodLength: 1.3789
+
+
+ans = 
+
+           bellCrankCenterRadi: 1.9500
+                   servoRadius: 0.4750
+    primaryBaseBellCrankRadius: 0.7039
+        primaryBellCrankRadius: 0.9039
+      bellCrankAngularRotation: 43.6289
+      secondaryBellCrankRadius: 0.5111
+              controlArmRadius: 0.8500
+       controlArmAngleRotation: 25.8247
+              linkageRodLength: 1.3789
+
+
+ans = 
+
+           bellCrankCenterRadi: 1.9500
+                   servoRadius: 0.5750
+    primaryBaseBellCrankRadius: 0.7039
+        primaryBellCrankRadius: 0.8039
+      bellCrankAngularRotation: 60.7681
+      secondaryBellCrankRadius: 0.5111
+              controlArmRadius: 0.7500
+       controlArmAngleRotation: 40.3282
+              linkageRodLength: 1.3789
+
+
+ans = 
+
+           bellCrankCenterRadi: 1.9500
+                   servoRadius: 0.5750
+    primaryBaseBellCrankRadius: 0.7039
+        primaryBellCrankRadius: 0.8039
+      bellCrankAngularRotation: 60.7681
+      secondaryBellCrankRadius: 0.5111
+              controlArmRadius: 0.8500
+       controlArmAngleRotation: 35.4147
+              linkageRodLength: 1.3789
+
+
+ans = 
+
+           bellCrankCenterRadi: 2
+                   servoRadius: 0.3750
+    primaryBaseBellCrankRadius: 0.7392
+        primaryBellCrankRadius: 1.0392
+      bellCrankAngularRotation: 29.5661
+      secondaryBellCrankRadius: 0.4758
+              controlArmRadius: 0.6500
+       controlArmAngleRotation: 21.5288
+              linkageRodLength: 1.4142
+
+
+ans = 
+
+           bellCrankCenterRadi: 2
+                   servoRadius: 0.4750
+    primaryBaseBellCrankRadius: 0.7392
+        primaryBellCrankRadius: 0.9392
+      bellCrankAngularRotation: 41.9074
+      secondaryBellCrankRadius: 0.4758
+              controlArmRadius: 0.6500
+       controlArmAngleRotation: 30.3497
+              linkageRodLength: 1.4142
+
+
+ans = 
+
+           bellCrankCenterRadi: 2
+                   servoRadius: 0.4750
+    primaryBaseBellCrankRadius: 0.7392
+        primaryBellCrankRadius: 0.9392
+      bellCrankAngularRotation: 41.9074
+      secondaryBellCrankRadius: 0.4758
+              controlArmRadius: 0.7500
+       controlArmAngleRotation: 26.2250
+              linkageRodLength: 1.4142
+
+
+ans = 
+
+           bellCrankCenterRadi: 2
+                   servoRadius: 0.4750
+    primaryBaseBellCrankRadius: 0.7392
+        primaryBellCrankRadius: 0.9392
+      bellCrankAngularRotation: 41.9074
+      secondaryBellCrankRadius: 0.4758
+              controlArmRadius: 0.8500
+       controlArmAngleRotation: 23.0943
+              linkageRodLength: 1.4142
+
+
+ans = 
+
+           bellCrankCenterRadi: 2
+                   servoRadius: 0.5750
+    primaryBaseBellCrankRadius: 0.7392
+        primaryBellCrankRadius: 0.8392
+      bellCrankAngularRotation: 57.9575
+      secondaryBellCrankRadius: 0.4758
+              controlArmRadius: 0.6500
+       controlArmAngleRotation: 41.5419
+              linkageRodLength: 1.4142
+
+
+ans = 
+
+           bellCrankCenterRadi: 2
+                   servoRadius: 0.5750
+    primaryBaseBellCrankRadius: 0.7392
+        primaryBellCrankRadius: 0.8392
+      bellCrankAngularRotation: 57.9575
+      secondaryBellCrankRadius: 0.4758
+              controlArmRadius: 0.7500
+       controlArmAngleRotation: 35.7990
+              linkageRodLength: 1.4142
+
+
+ans = 
+
+           bellCrankCenterRadi: 2
+                   servoRadius: 0.5750
+    primaryBaseBellCrankRadius: 0.7392
+        primaryBellCrankRadius: 0.8392
+      bellCrankAngularRotation: 57.9575
+      secondaryBellCrankRadius: 0.4758
+              controlArmRadius: 0.8500
+       controlArmAngleRotation: 31.4702
+              linkageRodLength: 1.4142
+
+
+ans = 
+
+           bellCrankCenterRadi: 2
+                   servoRadius: 0.6750
+    primaryBaseBellCrankRadius: 0.7392
+        primaryBellCrankRadius: 0.7392
+      bellCrankAngularRotation: 80.4337
+      secondaryBellCrankRadius: 0.4758
+              controlArmRadius: 0.8500
+       controlArmAngleRotation: 42.3748
+              linkageRodLength: 1.4142
+
+
+ans = 
+
+           bellCrankCenterRadi: 2.0500
+                   servoRadius: 0.4750
+    primaryBaseBellCrankRadius: 0.7746
+        primaryBellCrankRadius: 0.9746
+      bellCrankAngularRotation: 40.3197
+      secondaryBellCrankRadius: 0.4404
+              controlArmRadius: 0.6500
+       controlArmAngleRotation: 27.0092
+              linkageRodLength: 1.4496
+
+
+ans = 
+
+           bellCrankCenterRadi: 2.0500
+                   servoRadius: 0.4750
+    primaryBaseBellCrankRadius: 0.7746
+        primaryBellCrankRadius: 0.9746
+      bellCrankAngularRotation: 40.3197
+      secondaryBellCrankRadius: 0.4404
+              controlArmRadius: 0.7500
+       controlArmAngleRotation: 23.3532
+              linkageRodLength: 1.4496
+
+
+ans = 
+
+           bellCrankCenterRadi: 2.0500
+                   servoRadius: 0.4750
+    primaryBaseBellCrankRadius: 0.7746
+        primaryBellCrankRadius: 0.9746
+      bellCrankAngularRotation: 40.3197
+      secondaryBellCrankRadius: 0.4404
+              controlArmRadius: 0.8500
+       controlArmAngleRotation: 20.5738
+              linkageRodLength: 1.4496
+
+
+ans = 
+
+           bellCrankCenterRadi: 2.0500
+                   servoRadius: 0.5750
+    primaryBaseBellCrankRadius: 0.7746
+        primaryBellCrankRadius: 0.8746
+      bellCrankAngularRotation: 55.4074
+      secondaryBellCrankRadius: 0.4404
+              controlArmRadius: 0.6500
+       controlArmAngleRotation: 36.7228
+              linkageRodLength: 1.4496
+
+
+ans = 
+
+           bellCrankCenterRadi: 2.0500
+                   servoRadius: 0.5750
+    primaryBaseBellCrankRadius: 0.7746
+        primaryBellCrankRadius: 0.8746
+      bellCrankAngularRotation: 55.4074
+      secondaryBellCrankRadius: 0.4404
+              controlArmRadius: 0.7500
+       controlArmAngleRotation: 31.6867
+              linkageRodLength: 1.4496
+
+
+ans = 
+
+           bellCrankCenterRadi: 2.0500
+                   servoRadius: 0.5750
+    primaryBaseBellCrankRadius: 0.7746
+        primaryBellCrankRadius: 0.8746
+      bellCrankAngularRotation: 55.4074
+      secondaryBellCrankRadius: 0.4404
+              controlArmRadius: 0.8500
+       controlArmAngleRotation: 27.8781
+              linkageRodLength: 1.4496
+
+
+ans = 
+
+           bellCrankCenterRadi: 2.0500
+                   servoRadius: 0.6750
+    primaryBaseBellCrankRadius: 0.7746
+        primaryBellCrankRadius: 0.7746
+      bellCrankAngularRotation: 76.0798
+      secondaryBellCrankRadius: 0.4404
+              controlArmRadius: 0.7500
+       controlArmAngleRotation: 42.4294
+              linkageRodLength: 1.4496
+
+
+ans = 
+
+           bellCrankCenterRadi: 2.0500
+                   servoRadius: 0.6750
+    primaryBaseBellCrankRadius: 0.7746
+        primaryBellCrankRadius: 0.7746
+      bellCrankAngularRotation: 76.0798
+      secondaryBellCrankRadius: 0.4404
+              controlArmRadius: 0.8500
+       controlArmAngleRotation: 37.2402
+              linkageRodLength: 1.4496
+
+
+ans = 
+
+           bellCrankCenterRadi: 2.1000
+                   servoRadius: 0.4750
+    primaryBaseBellCrankRadius: 0.8099
+        primaryBellCrankRadius: 1.0099
+      bellCrankAngularRotation: 38.8503
+      secondaryBellCrankRadius: 0.4051
+              controlArmRadius: 0.6500
+       controlArmAngleRotation: 23.9235
+              linkageRodLength: 1.4849
+
+
+ans = 
+
+           bellCrankCenterRadi: 2.1000
+                   servoRadius: 0.4750
+    primaryBaseBellCrankRadius: 0.8099
+        primaryBellCrankRadius: 1.0099
+      bellCrankAngularRotation: 38.8503
+      secondaryBellCrankRadius: 0.4051
+              controlArmRadius: 0.7500
+       controlArmAngleRotation: 20.6957
+              linkageRodLength: 1.4849
+
+
+ans = 
+
+           bellCrankCenterRadi: 2.1000
+                   servoRadius: 0.5750
+    primaryBaseBellCrankRadius: 0.8099
+        primaryBellCrankRadius: 0.9099
+      bellCrankAngularRotation: 53.0817
+      secondaryBellCrankRadius: 0.4051
+              controlArmRadius: 0.6500
+       controlArmAngleRotation: 32.3372
+              linkageRodLength: 1.4849
+
+
+ans = 
+
+           bellCrankCenterRadi: 2.1000
+                   servoRadius: 0.5750
+    primaryBaseBellCrankRadius: 0.8099
+        primaryBellCrankRadius: 0.9099
+      bellCrankAngularRotation: 53.0817
+      secondaryBellCrankRadius: 0.4051
+              controlArmRadius: 0.7500
+       controlArmAngleRotation: 27.9308
+              linkageRodLength: 1.4849
+
+
+ans = 
+
+           bellCrankCenterRadi: 2.1000
+                   servoRadius: 0.5750
+    primaryBaseBellCrankRadius: 0.8099
+        primaryBellCrankRadius: 0.9099
+      bellCrankAngularRotation: 53.0817
+      secondaryBellCrankRadius: 0.4051
+              controlArmRadius: 0.8500
+       controlArmAngleRotation: 24.5898
+              linkageRodLength: 1.4849
+
+
+ans = 
+
+           bellCrankCenterRadi: 2.1000
+                   servoRadius: 0.6750
+    primaryBaseBellCrankRadius: 0.8099
+        primaryBellCrankRadius: 0.8099
+      bellCrankAngularRotation: 72.2162
+      secondaryBellCrankRadius: 0.4051
+              controlArmRadius: 0.6500
+       controlArmAngleRotation: 43.0928
+              linkageRodLength: 1.4849
+
+
+ans = 
+
+           bellCrankCenterRadi: 2.1000
+                   servoRadius: 0.6750
+    primaryBaseBellCrankRadius: 0.8099
+        primaryBellCrankRadius: 0.8099
+      bellCrankAngularRotation: 72.2162
+      secondaryBellCrankRadius: 0.4051
+              controlArmRadius: 0.7500
+       controlArmAngleRotation: 37.1188
+              linkageRodLength: 1.4849
+
+
+ans = 
+
+           bellCrankCenterRadi: 2.1000
+                   servoRadius: 0.6750
+    primaryBaseBellCrankRadius: 0.8099
+        primaryBellCrankRadius: 0.8099
+      bellCrankAngularRotation: 72.2162
+      secondaryBellCrankRadius: 0.4051
+              controlArmRadius: 0.8500
+       controlArmAngleRotation: 32.6209
+              linkageRodLength: 1.4849
+

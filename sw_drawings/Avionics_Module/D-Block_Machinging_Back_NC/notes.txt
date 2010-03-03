@@ -1,0 +1,7 @@
+1) uses 1/8 center drill
+--X zero is the small flat side machined face of the endmost D-Block
+--y-zero is the top face of the dblocks (back edge of vise) 
+--z-zero is 1 inche above the machined faced side of the D-Block that were about to drill in
+
+
+
