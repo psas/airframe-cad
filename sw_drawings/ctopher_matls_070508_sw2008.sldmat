@@ -1,0 +1,2932 @@
+<?xml version="1.0"?>
+<mstns:materials xmlns:mstns="http://www.solidworks.com/sldmaterials" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:sldcolorswatch="http://www.solidworks.com/sldcolorswatch" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2008.03">
+	<curves id="curve0">
+		<point x="1.000000" y="1.000000"/>
+		<point x="2.000000" y="1.000000"/>
+		<point x="3.000000" y="1.000000"/>
+	</curves>
+	<classification name="Aluminum alloys">
+		<material name="Beralcast 363">
+			<shaders>
+				<pwshader2 path="\metal\aluminum\satin finish aluminum.p2m" name="satin finish aluminum" isNewShader="1"/>
+				<cgshader2 name="satinfinishaluminum"/>
+				<pwshader path="\metal\aluminum\satin finish aluminum.p2m" name="satin finish aluminum" isNewShader="1"/>
+				<cgshader name="satinfinishaluminum"/>
+				<swtexture path="images\textures\plastic\polished\pplastic2.jpg"/>
+			</shaders>
+			<swatchcolor RGB="dde8ff">
+				<sldcolorswatch:Optical Ambient="0.000000" Transparency="0.000000" Diffuse="0.300000" Specularity="0.000000" Shininess="0.000000" Emission="0.312500"/>
+			</swatchcolor>
+			<xhatch name="ANSI38 (Aluminum)" angle="1.570796" scale="0.750000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="202016427419.829280"/>
+				<NUXY displayname="Poisson's ratio" value="0.200000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="11500000.000000"/>
+				<DENS displayname="Mass density" value="0.221439"/>
+				<KX displayname="Thermal conductivity" value="0.078000"/>
+				<C displayname="Specific heat" value="105.500000"/>
+				<SIGXT displayname="Tensile strength" value="8618448.268764"/>
+				<SIGXC displayname="Compressive strength" value="289579861.830472"/>
+				<SIGYLD displayname="Yield strength" value="213737517.065348"/>
+			</physicalproperties>
+		</material>
+		<material name="AlMag 535">
+			<shaders>
+				<pwshader2 name="cast aluminum" isNewShader="1"/>
+				<cgshader2 name="castaluminum"/>
+				<pwshader name="cast aluminum" isNewShader="1"/>
+				<cgshader name="castaluminum"/>
+				<swtexture path="images\textures\plastic\polished\pplastic2.jpg"/>
+			</shaders>
+			<swatchcolor RGB="aab2c4">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="0.500000" Shininess="0.500000" Emission="0.312500"/>
+			</swatchcolor>
+			<xhatch name="ANSI38 (Aluminum)" angle="1.570796" scale="1.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="7100911897600075.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.330000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000013"/>
+				<DENS displayname="Mass density" value="2621.287715"/>
+				<KX displayname="Thermal conductivity" value="96.200000"/>
+				<C displayname="Specific heat" value="0.963000"/>
+				<SIGXT displayname="Tensile strength" value="124105655.070202"/>
+				<SIGXC displayname="Compressive strength" value="241316551.525393"/>
+				<SIGYLD displayname="Yield strength" value="241316551.525393"/>
+			</physicalproperties>
+		</material>
+		<material name="C355.0-T6 (Sand Cast)">
+			<shaders>
+				<pwshader2 path="\metal\aluminum\cast aluminum.p2m" name="cast aluminum" isNewShader="1"/>
+				<cgshader2 name="castaluminum"/>
+				<pwshader path="\metal\aluminum\cast aluminum.p2m" name="cast aluminum" isNewShader="1"/>
+				<cgshader name="castaluminum"/>
+				<swtexture path="images\textures\plastic\polished\pplastic2.jpg"/>
+			</shaders>
+			<swatchcolor RGB="aab2c4">
+				<sldcolorswatch:Optical Ambient="0.000000" Transparency="0.000000" Diffuse="0.600000" Specularity="0.700000" Shininess="0.000000" Emission="0.312500"/>
+			</swatchcolor>
+			<xhatch name="ANSI38 (Aluminum)" angle="1.570796" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="69637062.011614"/>
+				<NUXY displayname="Poisson's ratio" value="0.330000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="13.100000"/>
+				<DENS displayname="Mass density" value="2709.863435"/>
+				<KX displayname="Thermal conductivity" value="151.000000"/>
+				<C displayname="Specific heat" value="0.963000"/>
+				<SIGXT displayname="Tensile strength" value="248211.310140"/>
+				<SIGXC displayname="Compressive strength" value="172368.965375"/>
+				<SIGYLD displayname="Yield strength" value="172368.965375"/>
+			</physicalproperties>
+		</material>
+		<material name="A356.0-T6 (Sand Cast)">
+			<shaders>
+				<pwshader2 path="\metal\aluminum\cast aluminum.p2m" name="cast aluminum" isNewShader="1"/>
+				<cgshader2 name="castaluminum"/>
+				<pwshader path="\metal\aluminum\cast aluminum.p2m" name="cast aluminum" isNewShader="1"/>
+				<cgshader name="castaluminum"/>
+				<swtexture path="images\textures\plastic\polished\pplastic2.jpg"/>
+			</shaders>
+			<swatchcolor RGB="aab2c4">
+				<sldcolorswatch:Optical Ambient="0.000000" Transparency="0.000000" Diffuse="0.600000" Specularity="0.700000" Shininess="0.000000" Emission="0.312500"/>
+			</swatchcolor>
+			<xhatch name="ANSI38 (Aluminum)" angle="1.570796" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="72394965.457618"/>
+				<NUXY displayname="Poisson's ratio" value="0.330000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="13.100000"/>
+				<DENS displayname="Mass density" value="2671.111558"/>
+				<KX displayname="Thermal conductivity" value="151.000000"/>
+				<C displayname="Specific heat" value="0.963000"/>
+				<SIGXT displayname="Tensile strength" value="234421.792910"/>
+				<SIGXC displayname="Compressive strength" value="165474.206760"/>
+				<SIGYLD displayname="Yield strength" value="165474.206760"/>
+			</physicalproperties>
+		</material>
+		<material name="Alum 2011">
+			<shaders>
+				<pwshader name="machined aluminum"/>
+				<cgshader name="Aluminum2014Alloy"/>
+				<swtexture path="images\textures\metal\brushed\brshmtl8.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI38 (Aluminum)" angle="1.570796" scale="1.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="70326525952.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.330000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000023"/>
+				<DENS displayname="Mass density" value="2823.349854"/>
+				<KX displayname="Thermal conductivity" value="142.100006"/>
+				<C displayname="Specific heat" value="962.780029"/>
+				<SIGXT displayname="Tensile strength" value="379211648.000000"/>
+				<SIGYLD displayname="Yield strength" value="296474560.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Alum 2024">
+			<shaders>
+				<pwshader name="brushed aluminum"/>
+				<cgshader name="Aluminum2024Alloy"/>
+				<swtexture path="images\textures\metal\brushed\brshmtl8.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI38 (Aluminum)" angle="1.570796" scale="1.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="73084428288.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.330000"/>
+				<GXY displayname="Shear modulus" value="27579029504.000000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000023"/>
+				<DENS displayname="Mass density" value="2767.989990"/>
+				<KX displayname="Thermal conductivity" value="121.099998"/>
+				<C displayname="Specific heat" value="962.780029"/>
+				<SIGXT displayname="Tensile strength" value="441264480.000000"/>
+				<SIGYLD displayname="Yield strength" value="289579808.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Alum 5052">
+			<shaders>
+				<pwshader name="cast aluminum"/>
+				<cgshader name="Aluminum3003Alloy"/>
+				<swtexture path="images\textures\metal\polished\chrome6.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI38 (Aluminum)" angle="1.570796" scale="1.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="70326525952.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.330000"/>
+				<GXY displayname="Shear modulus" value="25855340544.000000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000024"/>
+				<DENS displayname="Mass density" value="2684.950195"/>
+				<KX displayname="Thermal conductivity" value="138.399994"/>
+				<C displayname="Specific heat" value="962.780029"/>
+				<SIGXT displayname="Tensile strength" value="193053200.000000"/>
+				<SIGYLD displayname="Yield strength" value="89631848.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Alum 6061-T6">
+			<shaders>
+				<pwshader name="machined aluminum"/>
+				<cgshader name="Aluminum6061Alloy"/>
+				<swtexture path="images\textures\metal\brushed\brshmtl1.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI38 (Aluminum)" angle="1.570796" scale="1.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="68947574784.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.330000"/>
+				<GXY displayname="Shear modulus" value="25855340544.000000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000002"/>
+				<DENS displayname="Mass density" value="2712.630127"/>
+				<KX displayname="Thermal conductivity" value="154.300003"/>
+				<C displayname="Specific heat" value="962.780029"/>
+				<SIGXT displayname="Tensile strength" value="310264064.000000"/>
+				<SIGYLD displayname="Yield strength" value="275790304.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Alum 7001-T6">
+			<shaders>
+				<pwshader name="polished aluminum"/>
+				<cgshader name="texture"/>
+				<swtexture path="images\textures\plastic\polished\pplastic2.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI38 (Aluminum)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic Modulus" value="70999998464.000000"/>
+				<NUXY displayname="Poissons Ratio" value="0.330000"/>
+				<GXY displayname="Shear Modulus" value="27000000512.000000"/>
+				<ALPX displayname="Thermal Expansion Coefficient" value="0.000025"/>
+				<DENS displayname="Density" value="2810.000000"/>
+				<KX displayname="Thermal Conductivity" value="126.000000"/>
+				<C displayname="Specific Heat" value="960.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Alum 7075">
+			<shaders>
+				<pwshader name="machined aluminum"/>
+				<cgshader name="Aluminum7079Alloy"/>
+				<swtexture path="images\textures\metal\brushed\brshmtl3.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI38 (Aluminum)" angle="1.570796" scale="1.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="71705477120.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.330000"/>
+				<GXY displayname="Shear modulus" value="25855340544.000000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000023"/>
+				<DENS displayname="Mass density" value="2795.669922"/>
+				<KX displayname="Thermal conductivity" value="121.099998"/>
+				<C displayname="Specific heat" value="962.780029"/>
+				<SIGXT displayname="Tensile strength" value="227526992.000000"/>
+				<SIGYLD displayname="Yield strength" value="103421360.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Alum 7075-T6">
+			<shaders>
+				<pwshader name="polished aluminum"/>
+				<cgshader name="Aluminum7079Alloy" ignorescolor="false"/>
+				<swtexture path="images\textures\metal\polished\chrome5.jpg"/>
+			</shaders>
+			<swatchcolor RGB="ffffff">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI38 (Aluminum)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="71705477120.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.330000"/>
+				<GXY displayname="Shear modulus" value="26899998720.000000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000024"/>
+				<DENS displayname="Mass density" value="2823.349854"/>
+				<KX displayname="Thermal conductivity" value="130.000000"/>
+				<C displayname="Specific heat" value="960.000000"/>
+				<SIGXT displayname="Tensile strength" value="530896320.000000"/>
+				<SIGYLD displayname="Yield strength" value="455053984.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Alum 7075-T6 (Alcoa)">
+			<shaders>
+				<pwshader name="polished aluminum"/>
+				<cgshader name="Aluminum7079Alloy" ignorescolor="false"/>
+				<swtexture path="images\textures\metal\polished\chrome5.jpg"/>
+			</shaders>
+			<swatchcolor RGB="ffffff">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI32 (Steel)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="71705477120.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.330000"/>
+				<GXY displayname="Shear modulus" value="26899998720.000000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000024"/>
+				<DENS displayname="Mass density" value="2823.349854"/>
+				<KX displayname="Thermal conductivity" value="130.000000"/>
+				<C displayname="Specific heat" value="960.000000"/>
+				<SIGXT displayname="Tensile strength" value="572264832.000000"/>
+				<SIGYLD displayname="Yield strength" value="503317280.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Alum 7075-T7351">
+			<shaders>
+				<pwshader name="satin finish aluminum"/>
+				<cgshader name="Aluminum7079Alloy" ignorescolor="false"/>
+				<swtexture path="images\textures\metal\polished\chrome5.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI32 (Steel)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="71705477120.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.330000"/>
+				<GXY displayname="Shear modulus" value="26899998720.000000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000024"/>
+				<DENS displayname="Mass density" value="2810.000000"/>
+				<KX displayname="Thermal conductivity" value="130.000000"/>
+				<C displayname="Specific heat" value="960.000000"/>
+				<SIGXT displayname="Tensile strength" value="481254048.000000"/>
+				<SIGYLD displayname="Yield strength" value="397827488.000000"/>
+			</physicalproperties>
+		</material>
+	</classification>
+	<classification name="CRES Alloys (Iron Chrome)">
+		<material name="CRES 302 Anneal">
+			<shaders>
+				<pwshader name="blue glass"/>
+				<cgshader name="SteelAISI304" ignorescolor="false"/>
+				<swtexture path="images\textures\metal\polished\chrome1.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI32 (Steel)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="199947960320.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.270000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000016"/>
+				<DENS displayname="Mass density" value="7805.731934"/>
+				<KX displayname="Thermal conductivity" value="16.299999"/>
+				<C displayname="Specific heat" value="500.000000"/>
+				<SIGXT displayname="Tensile strength" value="515038368.000000"/>
+				<SIGYLD displayname="Yield strength" value="204774288.000000"/>
+				<RK displayname="Hardening factor (0.0-1.0; 0.0=isotropic; 1.0=kinematic)" value="0.850000"/>
+				<materialcurve id="1000" name="Stress Strain curve" type="100">
+					<data points="0.001 1.7236893e+008"/>
+					<data points="0.0015 1.8960583e+008"/>
+					<data points="0.002 1.9994796e+008"/>
+					<data points="0.0025 2.0684272e+008"/>
+					<data points="0.003 2.1373748e+008"/>
+					<data points="0.0035 2.1718485e+008"/>
+					<data points="0.004 2.1890854e+008"/>
+					<data points="0.0045 2.2063223e+008"/>
+				</materialcurve>
+			</physicalproperties>
+		</material>
+		<material name="CRES 303">
+			<shaders>
+				<pwshader name="stainless steel"/>
+				<cgshader name="SteelCastStainless"/>
+				<swtexture path="images\textures\metal\polished\chrome6.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI32 (Steel)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="193053196288.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.290000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000017"/>
+				<DENS displayname="Mass density" value="8027.170898"/>
+				<KX displayname="Thermal conductivity" value="16.200001"/>
+				<C displayname="Specific heat" value="502.320007"/>
+				<SIGXT displayname="Tensile strength" value="620528128.000000"/>
+				<SIGYLD displayname="Yield strength" value="241316512.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="CRES 304">
+			<shaders>
+				<pwshader name="machined steel"/>
+				<cgshader name="SteelWroughtStainless"/>
+				<swtexture path="images\textures\metal\cast\cast_stainless.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI32 (Steel)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="193053196288.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.290000"/>
+				<GXY displayname="Shear modulus" value="86184468480.000000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000017"/>
+				<DENS displayname="Mass density" value="8027.170898"/>
+				<KX displayname="Thermal conductivity" value="16.299999"/>
+				<C displayname="Specific heat" value="502.320007"/>
+				<SIGXT displayname="Tensile strength" value="586054400.000000"/>
+				<SIGYLD displayname="Yield strength" value="241316512.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="CRES 304L">
+			<shaders>
+				<pwshader name="stainless steel dimpled"/>
+				<cgshader name="StainlessSteel"/>
+				<swtexture path="images\textures\metal\brushed\brshmtl5.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI32 (Steel)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="193053197313.946690"/>
+				<NUXY displayname="Poisson's ratio" value="0.290000"/>
+				<GXY displayname="Shear modulus" value="86184466164.599991"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000017"/>
+				<DENS displayname="Mass density" value="8027.171000"/>
+				<KX displayname="Thermal conductivity" value="16.300000"/>
+				<C displayname="Specific heat" value="502.320000"/>
+				<SIGXT displayname="Tensile strength" value="517106796.987600"/>
+				<SIGYLD displayname="Yield strength" value="193053197.313947"/>
+			</physicalproperties>
+		</material>
+		<material name="CRES 310">
+			<shaders>
+				<pwshader name="steel"/>
+				<cgshader name="texture"/>
+				<swtexture path="images\textures\metal\brushed\brshmtl3.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI32 (Steel)" angle="1.570796" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="206842718795.039980"/>
+				<NUXY displayname="Poisson's ratio" value="0.285000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000014"/>
+				<DENS displayname="Mass density" value="8027.171000"/>
+				<KX displayname="Thermal conductivity" value="13.800000"/>
+				<C displayname="Specific heat" value="502.320000"/>
+				<SIGXT displayname="Tensile strength" value="655001942.850960"/>
+				<SIGYLD displayname="Yield strength" value="310264078.192560"/>
+			</physicalproperties>
+		</material>
+		<material name="CRES 316">
+			<shaders>
+				<pwshader name="steel"/>
+				<cgshader name="SteelWroughtStainless"/>
+				<swtexture path="images\textures\metal\brushed\brshmtl3.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI32 (Steel)" angle="1.570796" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="193053196288.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.290000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000016"/>
+				<DENS displayname="Mass density" value="8027.170898"/>
+				<KX displayname="Thermal conductivity" value="16.299999"/>
+				<C displayname="Specific heat" value="502.320007"/>
+				<SIGXT displayname="Tensile strength" value="620528192.000000"/>
+				<SIGYLD displayname="Yield strength" value="275790304.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="CRES 316L">
+			<shaders>
+				<pwshader name="steel"/>
+				<cgshader name="StainlessSteel"/>
+				<swtexture path="images\textures\metal\cast\cast_stainless.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI32 (Steel)" angle="1.570796" scale="1.750000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="193053196288.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.290000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000016"/>
+				<DENS displayname="Mass density" value="8027.170898"/>
+				<KX displayname="Thermal conductivity" value="16.299999"/>
+				<C displayname="Specific heat" value="502.320007"/>
+				<SIGXT displayname="Tensile strength" value="517106784.000000"/>
+				<SIGYLD displayname="Yield strength" value="220632240.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="CRES 347">
+			<shaders>
+				<pwshader name="steel"/>
+				<cgshader name="SteelCastStainless"/>
+				<swtexture path="images\textures\metal\brushed\brshmtl8.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI32 (Steel)" angle="1.570796" scale="2.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="193053196288.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.290000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000017"/>
+				<DENS displayname="Mass density" value="8027.170898"/>
+				<KX displayname="Thermal conductivity" value="16.100000"/>
+				<C displayname="Specific heat" value="502.320007"/>
+				<SIGXT displayname="Tensile strength" value="655001920.000000"/>
+				<SIGYLD displayname="Yield strength" value="275790304.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="CRES 410">
+			<shaders>
+				<pwshader name="steel"/>
+				<cgshader name="SteelCastStainless"/>
+				<swtexture path="images\textures\metal\brushed\galvnisd2.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI32 (Steel)" angle="0.000000" scale="2.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="199947960320.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.285000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000011"/>
+				<DENS displayname="Mass density" value="7750.372070"/>
+				<KX displayname="Thermal conductivity" value="24.700001"/>
+				<C displayname="Specific heat" value="460.459991"/>
+				<SIGXT displayname="Tensile strength" value="482633024.000000"/>
+				<SIGYLD displayname="Yield strength" value="310264064.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="CRES 416">
+			<shaders>
+				<pwshader name="steel"/>
+				<cgshader name="SteelCastStainless"/>
+				<swtexture path="images\textures\metal\polished\chrome5.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI32 (Steel)" angle="0.000000" scale="2.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="199947960320.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.285000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000010"/>
+				<DENS displayname="Mass density" value="7750.372070"/>
+				<KX displayname="Thermal conductivity" value="20.799999"/>
+				<C displayname="Specific heat" value="460.459991"/>
+				<SIGXT displayname="Tensile strength" value="499869888.000000"/>
+				<SIGYLD displayname="Yield strength" value="293027168.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="CRES 418">
+			<shaders>
+				<pwshader name="steel"/>
+				<cgshader name="StainlessSteel"/>
+				<swtexture path="images\textures\metal\polished\chrome5.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI32 (Steel)" angle="0.000000" scale="2.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="199999995904.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.285000"/>
+				<DENS displayname="Mass density" value="7865.000000"/>
+				<SIGXT displayname="Tensile strength" value="1450000000.000000"/>
+				<SIGYLD displayname="Yield strength" value="1210000000.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="CRES 431">
+			<shaders>
+				<pwshader name="steel"/>
+				<cgshader name="SteelAISI304"/>
+				<swtexture path="images\textures\metal\polished\chrome5.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI32 (Steel)" angle="0.000000" scale="2.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="199947960320.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.285000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000012"/>
+				<DENS displayname="Mass density" value="7750.372070"/>
+				<KX displayname="Thermal conductivity" value="20.200001"/>
+				<C displayname="Specific heat" value="460.459991"/>
+				<SIGXT displayname="Tensile strength" value="861844672.000000"/>
+				<SIGYLD displayname="Yield strength" value="655001920.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="CRES 446">
+			<shaders>
+				<pwshader name="steel"/>
+				<cgshader name="SteelAISI1020"/>
+				<swtexture path="images\textures\metal\polished\chrome5.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="0.500000" Transparency="0.000000" Diffuse="1.000000" Specularity="0.800000" Shininess="0.025000" Emission="0.100000"/>
+			</swatchcolor>
+			<xhatch name="ANSI32 (Steel)" angle="0.000000" scale="2.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="199947960320.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.290000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000010"/>
+				<DENS displayname="Mass density" value="7473.573242"/>
+				<KX displayname="Thermal conductivity" value="20.900000"/>
+				<C displayname="Specific heat" value="502.320007"/>
+				<SIGXT displayname="Tensile strength" value="551580608.000000"/>
+				<SIGYLD displayname="Yield strength" value="344737856.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="CRES 15-5 PH">
+			<shaders>
+				<pwshader name="stainless steel"/>
+				<cgshader name="SteelWroughtStainless"/>
+				<swtexture path="images\textures\metal\polished\chrome5.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI32 (Steel)" angle="1.047198" scale="1.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="196500586496.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.285000"/>
+				<GXY displayname="Shear modulus" value="77221281792.000000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000011"/>
+				<DENS displayname="Mass density" value="7805.731934"/>
+				<KX displayname="Thermal conductivity" value="19.400000"/>
+				<C displayname="Specific heat" value="418.600006"/>
+				<SIGXT displayname="Tensile strength" value="1378951552.000000"/>
+				<SIGYLD displayname="Yield strength" value="1275530112.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="SST 15-7 Mo Cond C">
+			<shaders>
+				<pwshader name="porcelain"/>
+				<cgshader name="SteelAISI304" ignorescolor="false"/>
+				<swtexture path="images\textures\metal\polished\chrome1.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI38 (Aluminum)" angle="0.000000" scale="4.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="199947960320.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.280000"/>
+				<GXY displayname="Shear modulus" value="76999999488.000000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000011"/>
+				<DENS displayname="Mass density" value="7695.012207"/>
+				<KX displayname="Thermal conductivity" value="18.000000"/>
+				<C displayname="Specific heat" value="460.000000"/>
+				<SIGXT displayname="Tensile strength" value="1827110656.000000"/>
+				<SIGYLD displayname="Yield strength" value="1792636928.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="SST 15-7 Mo Cond A">
+			<shaders>
+				<pwshader name="porcelain"/>
+				<cgshader name="Zirconium" ignorescolor="false"/>
+				<swtexture path="images\textures\metal\polished\chrome1.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI38 (Aluminum)" angle="0.000000" scale="4.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="199947960320.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.280000"/>
+				<GXY displayname="Shear modulus" value="76999999488.000000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000011"/>
+				<DENS displayname="Mass density" value="7805.731934"/>
+				<KX displayname="Thermal conductivity" value="18.000000"/>
+				<C displayname="Specific heat" value="460.000000"/>
+				<SIGXT displayname="Tensile strength" value="896318464.000000"/>
+				<SIGYLD displayname="Yield strength" value="372316896.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="CRES 17-4 Annealed">
+			<shaders>
+				<pwshader name="blue glass"/>
+				<cgshader name="SteelAISI304" ignorescolor="false"/>
+				<swtexture path="images\textures\metal\polished\chrome5.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI32 (Steel)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="199999995904.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.280000"/>
+				<GXY displayname="Shear modulus" value="76999999488.000000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000011"/>
+				<DENS displayname="Mass density" value="7800.000000"/>
+				<KX displayname="Thermal conductivity" value="18.000000"/>
+				<C displayname="Specific heat" value="460.000000"/>
+				<SIGXT displayname="Tensile strength" value="1034213568.000000"/>
+				<SIGYLD displayname="Yield strength" value="758423296.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="CRES 17-4 PH">
+			<shaders>
+				<pwshader name="polished steel"/>
+				<cgshader name="SteelSatin"/>
+				<swtexture path="images\textures\metal\polished\chrome6.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="0.500000" Transparency="0.000000" Diffuse="1.000000" Specularity="0.800000" Shininess="0.025000" Emission="0.100000"/>
+			</swatchcolor>
+			<xhatch name="ANSI32 (Steel)" angle="1.047198" scale="1.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="196500586496.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.272000"/>
+				<GXY displayname="Shear modulus" value="87563419648.000000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000011"/>
+				<DENS displayname="Mass density" value="7805.731934"/>
+				<KX displayname="Thermal conductivity" value="19.400000"/>
+				<C displayname="Specific heat" value="418.600006"/>
+				<SIGXT displayname="Tensile strength" value="137895152.000000"/>
+				<SIGYLD displayname="Yield strength" value="1275530112.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="CRES 17-4 PH HT900">
+			<shaders>
+				<pwshader name="polished steel"/>
+				<cgshader name="SteelSatin"/>
+				<swtexture path="images\textures\metal\polished\chrome6.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="0.500000" Transparency="0.000000" Diffuse="1.000000" Specularity="0.800000" Shininess="0.025000" Emission="0.100000"/>
+			</swatchcolor>
+			<xhatch name="ANSI32 (Steel)" angle="1.570796" scale="1.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="196500586496.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.272000"/>
+				<GXY displayname="Shear modulus" value="87563419648.000000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000011"/>
+				<DENS displayname="Mass density" value="7498.488281"/>
+				<KX displayname="Thermal conductivity" value="19.400000"/>
+				<C displayname="Specific heat" value="418.600006"/>
+				<SIGXT displayname="Tensile strength" value="137895152.000000"/>
+				<SIGYLD displayname="Yield strength" value="1275530112.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="CRES 17-7 PH">
+			<shaders>
+				<pwshader name="polished steel"/>
+				<cgshader name="SteelSatin"/>
+				<swtexture path="images\textures\metal\polished\chrome6.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="0.500000" Transparency="0.000000" Diffuse="1.000000" Specularity="0.800000" Shininess="0.025000" Emission="0.100000"/>
+			</swatchcolor>
+			<xhatch name="ANSI32 (Steel)" angle="1.047198" scale="1.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="199947960320.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.285000"/>
+				<GXY displayname="Shear modulus" value="75842330624.000000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000010"/>
+				<DENS displayname="Mass density" value="7639.652344"/>
+				<KX displayname="Thermal conductivity" value="18.500000"/>
+				<C displayname="Specific heat" value="460.459991"/>
+				<SIGXT displayname="Tensile strength" value="1620268032.000000"/>
+				<SIGYLD displayname="Yield strength" value="1516846592.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="1018">
+			<shaders>
+				<pwshader name="stainless steel dimpled"/>
+				<cgshader name="texture"/>
+				<swtexture path="images\textures\metal\cast\cast_fine.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c6c6d1">
+				<sldcolorswatch:Optical Ambient="0.520000" Transparency="0.000000" Diffuse="0.800000" Specularity="1.000000" Shininess="0.400000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI32 (Steel)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic Modulus" value="199999995904.000000"/>
+				<NUXY displayname="Poissons Ratio" value="0.290000"/>
+				<GXY displayname="Shear Modulus" value="76999999488.000000"/>
+				<ALPX displayname="Thermal Expansion Coefficient" value="0.000015"/>
+				<DENS displayname="Density" value="7833.415243"/>
+				<KX displayname="Thermal Conductivity" value="47.000000"/>
+				<C displayname="Specific Heat" value="420.000000"/>
+				<SIGXT displayname="Tensile Strength" value="420507008.000000"/>
+				<SIGYLD displayname="Yield Strength" value="351571008.000000"/>
+			</physicalproperties>
+		</material>
+	</classification>
+	<classification name="Copper Alloys">
+		<material name="Beryllium">
+			<shaders>
+				<pwshader name="bronze"/>
+				<cgshader name="BronzeTinBearing"/>
+				<swtexture path="images\textures\metal\brushed\brshmtl8.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ISO (Bronze Brass)" angle="1.570796" scale="1.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="303369320899.391970"/>
+				<NUXY displayname="Poisson's ratio" value="0.047500"/>
+				<GXY displayname="Shear modulus" value="131000388570.192000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000012"/>
+				<DENS displayname="Mass density" value="1854.553300"/>
+				<KX displayname="Thermal conductivity" value="15.000000"/>
+				<C displayname="Specific heat" value="1925.560000"/>
+				<SIGXT displayname="Tensile strength" value="303369320.899392"/>
+				<SIGYLD displayname="Yield strength" value="234421747.967712"/>
+			</physicalproperties>
+		</material>
+		<material name="Naval Brass (C46400)">
+			<shaders>
+				<pwshader2 path="\metal\brass\polished brass.p2m" name="polished brass" isNewShader="1"/>
+				<cgshader2 name="polishedbrass"/>
+				<pwshader path="\metal\brass\polished brass.p2m" name="polished brass" isNewShader="1"/>
+				<cgshader name="polishedbrass"/>
+				<swtexture path="images\textures\metal\polished\chrome1.jpg"/>
+			</shaders>
+			<swatchcolor RGB="a58400">
+				<sldcolorswatch:Optical Ambient="0.000000" Transparency="0.000000" Diffuse="0.300000" Specularity="1.000000" Shininess="0.000000" Emission="0.312500"/>
+			</swatchcolor>
+			<xhatch name="ANSI33 (Bronze Brass)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic Modulus" value="689475847380658.250000"/>
+				<NUXY displayname="Poissons Ratio" value="0.280000"/>
+				<GXY displayname="Shear Modulus" value="268895575395089.060000"/>
+				<ALPX displayname="Thermal Expansion Coefficient" value="0.000019"/>
+				<DENS displayname="Density" value="232788064.274374"/>
+				<SIGXT displayname="Tensile Strength" value="2613113515089.259300"/>
+				<SIGYLD displayname="Yield Strength" value="1185898481781.933100"/>
+			</physicalproperties>
+		</material>
+	</classification>
+	<classification name="Plastics/Rubber/etc">
+		<material name="Fluorocarbon">
+			<shaders>
+				<pwshader name="rubber"/>
+				<cgshader name="RubberSoft" ignorescolor="false"/>
+				<swtexture path="images\textures\plastic\compsite\carbfib0.jpg"/>
+			</shaders>
+			<swatchcolor RGB="404040">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI34 (Plastic Rubber)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic Modulus" value="6100000.000000"/>
+				<NUXY displayname="Poissons Ratio" value="0.490000"/>
+				<GXY displayname="Shear Modulus" value="2900000.000000"/>
+				<ALPX displayname="Thermal Expansion Coefficient" value="0.000670"/>
+				<DENS displayname="Density" value="1898.841999"/>
+				<KX displayname="Thermal Conductivity" value="0.140000"/>
+				<SIGXT displayname="Tensile Strength" value="13787100.000000"/>
+				<SIGYLD displayname="Yield Strength" value="9237370.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="PolyPro Homopolymer">
+			<shaders>
+				<pwshader2 path="\plastic\high gloss\polished plastic1.p2m" name="polished plastic1" isNewShader="1"/>
+				<cgshader2 name="texture"/>
+				<pwshader path="\plastic\high gloss\polished plastic1.p2m" name="polished plastic1" isNewShader="1"/>
+				<cgshader name="texture"/>
+				<swtexture path="images\textures\plastic\polished\pplastic2.jpg"/>
+			</shaders>
+			<swatchcolor RGB="a0a8ad">
+				<sldcolorswatch:Optical Ambient="0.600000" Transparency="0.000000" Diffuse="0.350000" Specularity="0.500000" Shininess="0.000000" Emission="0.312500"/>
+			</swatchcolor>
+			<xhatch name="Plastic2" angle="0.785398" scale="1.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="10703635080928.100000"/>
+				<NUXY displayname="Poisson's ratio" value="0.400000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="90.500000"/>
+				<DENS displayname="Mass density" value="24900770.911466"/>
+				<KX displayname="Thermal conductivity" value="0.117000"/>
+				<C displayname="Specific heat" value="1.900000"/>
+				<SIGXT displayname="Tensile strength" value="241490547653.801760"/>
+				<SIGXC displayname="Compressive strength" value="308995026335.265690"/>
+				<SIGYLD displayname="Yield strength" value="320606.117019"/>
+			</physicalproperties>
+		</material>
+		<material name="Delrin">
+			<shaders>
+				<pwshader name="rough brown plastic"/>
+				<cgshader name="PlasticPVC"/>
+				<swtexture path="images\textures\plastic\faded\fyellow.jpg"/>
+			</shaders>
+			<swatchcolor RGB="ba5b06">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="Plastic2" angle="0.785398" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="2964745567.114667"/>
+				<NUXY displayname="Poisson's ratio" value="0.350000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000012"/>
+				<DENS displayname="Mass density" value="1424.000012"/>
+				<KX displayname="Thermal conductivity" value="0.400000"/>
+				<SIGXT displayname="Tensile strength" value="68947572.931680"/>
+				<SIGYLD displayname="Yield strength" value="58605436.991928"/>
+			</physicalproperties>
+		</material>
+		<material name="PTFE">
+			<shaders>
+				<pwshader name="polished plastic1"/>
+				<cgshader name="PlasticPTFE"/>
+				<swtexture path="images\textures\plastic\polished\pplastic2.jpg"/>
+			</shaders>
+			<swatchcolor RGB="ffffff">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="Teflon" angle="2.356194" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="496422532.002853"/>
+				<NUXY displayname="Poisson's ratio" value="0.460000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000010"/>
+				<DENS displayname="Mass density" value="2194.999988"/>
+				<KX displayname="Thermal conductivity" value="0.300000"/>
+				<C displayname="Specific heat" value="1046.500000"/>
+				<SIGXT displayname="Tensile strength" value="27579029.172672"/>
+				<SIGXC displayname="Compressive strength" value="4136854.375901"/>
+				<SIGYLD displayname="Yield strength" value="15030570.899106"/>
+			</physicalproperties>
+		</material>
+		<material name="Torlon 4203">
+			<shaders>
+				<pwshader name="polished plastic1"/>
+				<cgshader name="texture"/>
+				<swtexture path="images\textures\plastic\polished\pplastic2.jpg"/>
+			</shaders>
+			<swatchcolor RGB="ffffff">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="Teflon" angle="2.356194" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="4895277678.149280"/>
+				<NUXY displayname="Poisson's ratio" value="0.450000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000031"/>
+				<DENS displayname="Mass density" value="1419.978898"/>
+				<KX displayname="Thermal conductivity" value="0.260000"/>
+				<SIGXT displayname="Tensile strength" value="191674252.750070"/>
+				<SIGXC displayname="Compressive strength" value="221321709.110693"/>
+			</physicalproperties>
+		</material>
+		<material name="Vespel SP-211">
+			<shaders>
+				<pwshader name="polished plastic1"/>
+				<cgshader name="texture"/>
+				<swtexture path="images\textures\plastic\polished\pplastic2.jpg"/>
+			</shaders>
+			<swatchcolor RGB="ffffff">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="Teflon" angle="2.356194" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="2406270295.315632"/>
+				<NUXY displayname="Poisson's ratio" value="0.410000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000054"/>
+				<DENS displayname="Mass density" value="1522.394500"/>
+				<KX displayname="Thermal conductivity" value="0.760000"/>
+				<SIGXT displayname="Tensile strength" value="44815921.716116"/>
+				<SIGXC displayname="Compressive strength" value="116576556.312885"/>
+				<SIGYLD displayname="Yield strength" value="8818394.577962"/>
+			</physicalproperties>
+		</material>
+		<material name="Viton">
+			<shaders>
+				<pwshader name="polished plastic1"/>
+				<cgshader name="texture"/>
+				<swtexture path="images\textures\plastic\polished\pplastic2.jpg"/>
+			</shaders>
+			<swatchcolor RGB="ffffff">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="Teflon" angle="2.356194" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="758423302.248480"/>
+				<NUXY displayname="Poisson's ratio" value="0.490000"/>
+				<DENS displayname="Mass density" value="1843.481312"/>
+				<KX displayname="Thermal conductivity" value="1.000000"/>
+				<SIGXT displayname="Tensile strength" value="13789515.275812"/>
+			</physicalproperties>
+		</material>
+		<material name="Ultem">
+			<shaders>
+				<pwshader name="matting fabric"/>
+				<cgshader name="PlasticNylon" ignorescolor="false"/>
+				<swtexture path="images\textures\fibers\glassfiber.jpg"/>
+			</shaders>
+			<swatchcolor RGB="e87108">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI34 (Plastic Rubber)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic Modulus" value="8299999744.000000"/>
+				<NUXY displayname="Poissons Ratio" value="0.280000"/>
+				<GXY displayname="Shear Modulus" value="3200000000.000000"/>
+				<ALPX displayname="Thermal Expansion Coefficient" value="0.000030"/>
+				<DENS displayname="Density" value="1508.555176"/>
+				<KX displayname="Thermal Conductivity" value="0.530000"/>
+				<C displayname="Specific Heat" value="1500.000000"/>
+				<SIGXT displayname="Tensile Strength" value="142558992.000000"/>
+				<SIGYLD displayname="Yield Strength" value="139042992.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Ultem 1000">
+			<shaders>
+				<pwshader name="shiny resin yellow"/>
+				<cgshader name="texture" ignorescolor="false"/>
+				<swtexture path="images\textures\plastic\polished\pplastic2.jpg"/>
+			</shaders>
+			<swatchcolor RGB="e87108">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="Plastic" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="3447378688.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.389700"/>
+				<DENS displayname="Mass density" value="1278.811401"/>
+				<KX displayname="Thermal conductivity" value="0.261800"/>
+				<C displayname="Specific heat" value="1900.000000"/>
+				<SIGXT displayname="Tensile strength" value="113763496.000000"/>
+				<SIGXC displayname="Compressive strength" value="151684656.000000"/>
+				<SIGYLD displayname="Yield strength" value="103421360.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Ultem 2300">
+			<shaders>
+				<pwshader name="matting fabric"/>
+				<cgshader name="texture" ignorescolor="false"/>
+				<swtexture path="images\textures\fibers\glassfiber.jpg"/>
+			</shaders>
+			<swatchcolor RGB="e87108">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI34 (Plastic Rubber)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic Modulus" value="8299999744.000000"/>
+				<NUXY displayname="Poissons Ratio" value="0.280000"/>
+				<GXY displayname="Shear Modulus" value="3200000000.000000"/>
+				<ALPX displayname="Thermal Expansion Coefficient" value="0.000030"/>
+				<DENS displayname="Density" value="1511.323223"/>
+				<KX displayname="Thermal Conductivity" value="0.530000"/>
+				<C displayname="Specific Heat" value="1500.000000"/>
+				<SIGXT displayname="Tensile Strength" value="142558992.000000"/>
+				<SIGYLD displayname="Yield Strength" value="139042992.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Phenolic Fiber Filled">
+			<shaders>
+				<pwshader name="ionomer resin"/>
+				<cgshader name="PlasticNylon" ignorescolor="false"/>
+				<swtexture path="images\textures\fibers\carbonfiber.jpg"/>
+			</shaders>
+			<swatchcolor RGB="e87108">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="0.000000" Shininess="0.200000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI34 (Plastic Rubber)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic Modulus" value="8299999744.000000"/>
+				<NUXY displayname="Poissons Ratio" value="0.280000"/>
+				<GXY displayname="Shear Modulus" value="3200000000.000000"/>
+				<ALPX displayname="Thermal Expansion Coefficient" value="0.000030"/>
+				<DENS displayname="Density" value="1450.427368"/>
+				<KX displayname="Thermal Conductivity" value="0.530000"/>
+				<C displayname="Specific Heat" value="1500.000000"/>
+				<SIGXT displayname="Tensile Strength" value="41023812.000000"/>
+				<SIGYLD displayname="Yield Strength" value="41023812.000000"/>
+			</physicalproperties>
+		</material>
+	</classification>
+	<classification name="Foam/Mesh">
+		<material name="Polyurethane Foam">
+			<shaders>
+				<pwshader2 path="\plastic\satin finish\white satin finish plastic.p2m" name="white satin finish plastic" isNewShader="1"/>
+				<cgshader2 name="whitesatinfinishplastic"/>
+				<pwshader path="\plastic\satin finish\white satin finish plastic.p2m" name="white satin finish plastic" isNewShader="1"/>
+				<cgshader name="whitesatinfinishplastic"/>
+				<swtexture path="images\textures\organic\sponge.jpg"/>
+			</shaders>
+			<swatchcolor RGB="ffffff">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI35 (Fire Brick)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<DENS displayname="Density" value="1000.000504"/>
+			</physicalproperties>
+		</material>
+		<material name="Deocel Al Foam 10ppi 8%">
+			<shaders>
+				<pwshader2 path="\metal\lead\matte lead.p2m" name="matte lead" isNewShader="1"/>
+				<cgshader2 name="mattelead"/>
+				<pwshader path="\metal\lead\matte lead.p2m" name="matte lead" isNewShader="1"/>
+				<cgshader name="mattelead"/>
+				<swtexture path="images\textures\organic\sponge.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.010000" Diffuse="1.000000" Specularity="0.290000" Shininess="0.010000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI38 (Aluminum)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic Modulus" value="69000003584.000000"/>
+				<NUXY displayname="Poissons Ratio" value="0.330000"/>
+				<GXY displayname="Shear Modulus" value="25999998976.000000"/>
+				<ALPX displayname="Thermal Expansion Coefficient" value="0.000024"/>
+				<DENS displayname="Density" value="214.796121"/>
+				<KX displayname="Thermal Conductivity" value="170.000000"/>
+				<C displayname="Specific Heat" value="1300.000000"/>
+				<SIGXT displayname="Tensile Strength" value="124084000.000000"/>
+				<SIGYLD displayname="Yield Strength" value="55148500.000000"/>
+			</physicalproperties>
+		</material>
+	</classification>
+	<classification name="Epoxies/Elastomers">
+		<material name="Stycast 1090">
+			<shaders>
+				<pwshader name="ionomer resin"/>
+				<cgshader name="PlasticNylon" ignorescolor="false"/>
+				<swtexture path="images\textures\plastic\polished\pplastic.jpg"/>
+			</shaders>
+			<swatchcolor RGB="404040">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI34 (Plastic Rubber)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic Modulus" value="2400000663.154431"/>
+				<NUXY displayname="Poissons Ratio" value="0.280000"/>
+				<GXY displayname="Shear Modulus" value="3200000000.000000"/>
+				<ALPX displayname="Thermal Expansion Coefficient" value="0.000030"/>
+				<DENS displayname="Density" value="820.000247"/>
+				<KX displayname="Thermal Conductivity" value="0.190000"/>
+				<C displayname="Specific Heat" value="1500.000000"/>
+				<SIGXT displayname="Tensile Strength" value="26889558.598544"/>
+				<SIGYLD displayname="Yield Strength" value="13789517.230022"/>
+			</physicalproperties>
+		</material>
+		<material name="Stycast 2762FT">
+			<shaders>
+				<pwshader name="satin black"/>
+				<cgshader name="RubberSoft"/>
+				<swtexture path="images\textures\organic\water.jpg"/>
+			</shaders>
+			<swatchcolor RGB="404040">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI34 (Plastic Rubber)" angle="0.000000" scale="2.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="8273708751.801600"/>
+				<NUXY displayname="Poisson's ratio" value="0.340000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000038"/>
+				<DENS displayname="Mass density" value="2197.784088"/>
+				<KX displayname="Thermal conductivity" value="1.340000"/>
+				<SIGXC displayname="Compressive strength" value="124105631.277024"/>
+			</physicalproperties>
+		</material>
+		<material name="Stycast 2057">
+			<shaders>
+				<pwshader name="porcelain"/>
+				<cgshader name="PlasticShiny" ignorescolor="false"/>
+				<swtexture path="images\textures\plastic\polished\pplastic.jpg"/>
+			</shaders>
+			<swatchcolor RGB="404040">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI38 (Aluminum)" angle="0.000000" scale="4.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="2447638784.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.394000"/>
+				<DENS displayname="Mass density" value="858.076904"/>
+				<KX displayname="Thermal conductivity" value="0.225600"/>
+				<C displayname="Specific heat" value="1386.000000"/>
+				<SIGXT displayname="Tensile strength" value="54999480.000000"/>
+				<SIGXC displayname="Compressive strength" value="79999872.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Stycast 2651">
+			<shaders>
+				<pwshader name="satin black"/>
+				<cgshader name="RubberSoft"/>
+				<swtexture path="images\textures\organic\water.jpg"/>
+			</shaders>
+			<swatchcolor RGB="404040">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI34 (Plastic Rubber)" angle="0.000000" scale="1.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="4826330105.217600"/>
+				<NUXY displayname="Poisson's ratio" value="0.340000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000040"/>
+				<DENS displayname="Mass density" value="1548.000013"/>
+				<KX displayname="Thermal conductivity" value="0.600000"/>
+				<SIGXT displayname="Tensile strength" value="48263301.052176"/>
+				<SIGXC displayname="Compressive strength" value="103421359.397520"/>
+			</physicalproperties>
+		</material>
+		<material name="Eccosil/Stycast 5952">
+			<shaders>
+				<pwshader name="brushed orange plastic"/>
+				<cgshader name="RubberSoft"/>
+				<swtexture path="images\textures\plastic\brushed\borange.jpg"/>
+			</shaders>
+			<swatchcolor RGB="e87108">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI34 (Plastic Rubber)" angle="2.094395" scale="3.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="498201372.489733"/>
+				<NUXY displayname="Poisson's ratio" value="0.485000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000198"/>
+				<DENS displayname="Mass density" value="2006.792805"/>
+				<KX displayname="Thermal conductivity" value="0.800000"/>
+				<SIGXT displayname="Tensile strength" value="3447378.577636"/>
+			</physicalproperties>
+		</material>
+		<material name="RTV-Dow Corning 3145">
+			<shaders>
+				<pwshader name="bumpy dimpled gray"/>
+				<cgshader name="RubberSoft"/>
+				<swtexture path="images\textures\plastic\faded\fgray.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI34 (Plastic Rubber)" angle="1.570796" scale="2.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="498201372.489733"/>
+				<NUXY displayname="Poisson's ratio" value="0.485000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000342"/>
+				<DENS displayname="Mass density" value="1118.267988"/>
+				<KX displayname="Thermal conductivity" value="0.180000"/>
+				<SIGXT displayname="Tensile strength" value="6894757.293168"/>
+			</physicalproperties>
+		</material>
+		<material name="Ablebond 742-1">
+			<shaders>
+				<pwshader name="brushed yellow plastic"/>
+				<cgshader name="RubberSoft"/>
+				<swtexture path="images\textures\plastic\faded\fyellow.jpg"/>
+			</shaders>
+			<swatchcolor RGB="fcbc84">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI34 (Plastic Rubber)" angle="0.000000" scale="2.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="3447378577.636427"/>
+				<NUXY displayname="Poisson's ratio" value="0.340000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000050"/>
+				<DENS displayname="Mass density" value="1659.000010"/>
+				<KX displayname="Thermal conductivity" value="0.500000"/>
+				<SIGXT displayname="Tensile strength" value="10342135.939752"/>
+			</physicalproperties>
+		</material>
+		<material name="Epoxy LCA-14">
+			<shaders>
+				<pwshader name="satin green"/>
+				<cgshader name="RubberSoft"/>
+				<swtexture path="images\textures\plastic\faded\fgreen.jpg"/>
+			</shaders>
+			<swatchcolor RGB="00c000">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI34 (Plastic Rubber)" angle="0.000000" scale="2.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="3447378577.636427"/>
+				<NUXY displayname="Poisson's ratio" value="0.340000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000032"/>
+				<DENS displayname="Mass density" value="1799.193500"/>
+				<SIGXT displayname="Tensile strength" value="13789515.275812"/>
+			</physicalproperties>
+		</material>
+		<material name="Epoxy LCA-9">
+			<shaders>
+				<pwshader name="satin white"/>
+				<cgshader name="RubberSoft"/>
+				<swtexture path="images\textures\plastic\polished\pplastic2.jpg"/>
+			</shaders>
+			<swatchcolor RGB="ffffff">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI34 (Plastic Rubber)" angle="2.094395" scale="1.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="3447378577.636427"/>
+				<NUXY displayname="Poisson's ratio" value="0.340000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000025"/>
+				<DENS displayname="Mass density" value="1688.473900"/>
+				<SIGXT displayname="Tensile strength" value="15513203.909628"/>
+			</physicalproperties>
+		</material>
+		<material name="Epoxy Adhesive 9395">
+			<shaders>
+				<pwshader name="porcelain"/>
+				<cgshader name="texture" ignorescolor="false"/>
+				<swtexture path="images\textures\plastic\smooth\sblue.jpg"/>
+			</shaders>
+			<swatchcolor RGB="8080ff">
+				<sldcolorswatch:Optical Ambient="0.500000" Transparency="0.000000" Diffuse="1.000000" Specularity="0.800000" Shininess="0.025000" Emission="0.100000"/>
+			</swatchcolor>
+			<xhatch name="ISO (Plastic)" angle="0.000000" scale="3.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="2447638784.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.394000"/>
+				<DENS displayname="Mass density" value="858.076904"/>
+				<KX displayname="Thermal conductivity" value="0.225600"/>
+				<C displayname="Specific heat" value="1386.000000"/>
+				<SIGXT displayname="Tensile strength" value="54999480.000000"/>
+				<SIGXC displayname="Compressive strength" value="79999872.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Epoxy Molding Compound">
+			<shaders>
+				<pwshader name="blue glass"/>
+				<cgshader name="Default" ignorescolor="false"/>
+				<swtexture path="images\textures\silicon\silicondioxide.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="0.790000" Specularity="0.880000" Shininess="0.210000" Emission="0.210000"/>
+			</swatchcolor>
+			<xhatch name="ANSI32 (Steel)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="14478990336.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.394000"/>
+				<GXY displayname="Shear modulus" value="318900000.000000"/>
+				<DENS displayname="Mass density" value="1937.593018"/>
+				<KX displayname="Thermal conductivity" value="0.225600"/>
+				<C displayname="Specific heat" value="1386.000000"/>
+				<SIGXT displayname="Tensile strength" value="151684656.000000"/>
+				<SIGXC displayname="Compressive strength" value="213737472.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Scotchcast 8">
+			<shaders>
+				<pwshader name="ionomer resin"/>
+				<cgshader name="texture" ignorescolor="false"/>
+				<swtexture path="images\textures\plastic\polished\pplastic.jpg"/>
+			</shaders>
+			<swatchcolor RGB="404040">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI34 (Plastic Rubber)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic Modulus" value="2400000768.000000"/>
+				<NUXY displayname="Poissons Ratio" value="0.280000"/>
+				<GXY displayname="Shear Modulus" value="3200000000.000000"/>
+				<ALPX displayname="Thermal Expansion Coefficient" value="0.000030"/>
+				<DENS displayname="Density" value="1070.000234"/>
+				<KX displayname="Thermal Conductivity" value="0.190000"/>
+				<C displayname="Specific Heat" value="1500.000000"/>
+				<SIGXT displayname="Tensile Strength" value="26889558.000000"/>
+				<SIGYLD displayname="Yield Strength" value="13789517.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Ablebond 85-1">
+			<shaders>
+				<pwshader name="brushed yellow plastic"/>
+				<cgshader name="texture"/>
+				<swtexture path="images\textures\plastic\faded\fyellow.jpg"/>
+			</shaders>
+			<swatchcolor RGB="fcbc84">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI34 (Plastic Rubber)" angle="0.000000" scale="2.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="2964745567.114667"/>
+				<NUXY displayname="Poisson's ratio" value="0.400000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000194"/>
+				<DENS displayname="Mass density" value="1800.000009"/>
+				<KX displayname="Thermal conductivity" value="2.077048"/>
+				<SIGXT displayname="Tensile strength" value="10342135.939752"/>
+			</physicalproperties>
+		</material>
+		<material name="2216 B/A">
+			<shaders>
+				<pwshader name="polished plastic1"/>
+				<cgshader name="texture"/>
+				<swtexture path="images\textures\plastic\polished\pplastic.jpg"/>
+			</shaders>
+			<swatchcolor RGB="808080">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI35 (Fire Brick)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic Modulus" value="112399998976.000000"/>
+				<NUXY displayname="Poissons Ratio" value="0.280000"/>
+				<GXY displayname="Shear Modulus" value="49000001536.000000"/>
+				<DENS displayname="Density" value="2330.000000"/>
+				<KX displayname="Thermal Conductivity" value="124.000000"/>
+				<SIGYLD displayname="Yield Strength" value="120000000.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Hysol, Cast Compound">
+			<shaders>
+				<pwshader name="polished plastic1"/>
+				<cgshader name="PlasticPolycarbonate"/>
+				<swtexture path="images\textures\plastic\polished\pplastic.jpg"/>
+			</shaders>
+			<swatchcolor RGB="404040">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI35 (Fire Brick)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic Modulus" value="112399998976.000000"/>
+				<NUXY displayname="Poissons Ratio" value="0.280000"/>
+				<GXY displayname="Shear Modulus" value="49000001536.000000"/>
+				<DENS displayname="Density" value="2330.000000"/>
+				<KX displayname="Thermal Conductivity" value="124.000000"/>
+				<SIGYLD displayname="Yield Strength" value="120000000.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Eccobond 45/Cat15 Rigid">
+			<shaders>
+				<pwshader name="polished plastic1"/>
+				<cgshader name="PlasticAcrylic" ignorescolor="false"/>
+				<swtexture path="images\textures\plastic\polished\pplastic.jpg"/>
+			</shaders>
+			<swatchcolor RGB="404040">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI32 (Steel)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="17030050816.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.394000"/>
+				<GXY displayname="Shear modulus" value="318900000.000000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000058"/>
+				<DENS displayname="Mass density" value="1937.593018"/>
+				<KX displayname="Thermal conductivity" value="0.225600"/>
+				<C displayname="Specific heat" value="1386.000000"/>
+				<SIGXT displayname="Tensile strength" value="17236894.000000"/>
+				<SIGXC displayname="Compressive strength" value="213737488.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Eccobond 45/Cat15">
+			<shaders>
+				<pwshader name="polished plastic1"/>
+				<cgshader name="PlasticAcrylic" ignorescolor="false"/>
+				<swtexture path="images\textures\plastic\polished\pplastic.jpg"/>
+			</shaders>
+			<swatchcolor RGB="404040">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI32 (Steel)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="5095225.500000"/>
+				<NUXY displayname="Poisson's ratio" value="0.394000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000058"/>
+				<DENS displayname="Mass density" value="1937.593018"/>
+				<KX displayname="Thermal conductivity" value="0.225600"/>
+				<C displayname="Specific heat" value="1386.000000"/>
+				<SIGXT displayname="Tensile strength" value="19512164.000000"/>
+			</physicalproperties>
+		</material>
+	</classification>
+	<classification name="Glasses/Ceramics">
+		<material name="G-7 Glass Laminate">
+			<shaders>
+				<pwshader2 path="\plastic\low gloss\green low gloss plastic.p2m" name="green low gloss plastic" isNewShader="1"/>
+				<cgshader2 name="greenlowglossplastic"/>
+				<pwshader path="\plastic\low gloss\green low gloss plastic.p2m" name="green low gloss plastic" isNewShader="1"/>
+				<cgshader name="greenlowglossplastic"/>
+				<swtexture path="images\textures\metal\cast\cast_fine.jpg"/>
+			</shaders>
+			<swatchcolor RGB="48a953">
+				<sldcolorswatch:Optical Ambient="0.500000" Transparency="0.000000" Diffuse="0.800000" Specularity="0.800000" Shininess="0.000000" Emission="0.312500"/>
+			</swatchcolor>
+			<xhatch name="Flexible Material" angle="0.785398" scale="2.000000"/>
+			<physicalproperties>
+				<ALPX displayname="Thermal expansion coefficient" value="5.5"/>
+				<DENS displayname="Mass density" value=".065"/>
+				<KX displayname="Thermal conductivity" value="2"/>
+				<SIGXT displayname="Tensile strength" value="18000"/>
+				<SIGXC displayname="Compressive strength" value="45000"/>
+				<SIGYLD displayname="Yield strength" value="25000"/>
+			</physicalproperties>
+		</material>
+		<material name="G-9 Glass Laminate">
+			<shaders>
+				<pwshader2 path="\plastic\low gloss\green low gloss plastic.p2m" name="green low gloss plastic" isNewShader="1"/>
+				<cgshader2 name="greenlowglossplastic"/>
+				<pwshader path="\plastic\low gloss\green low gloss plastic.p2m" name="green low gloss plastic" isNewShader="1"/>
+				<cgshader name="greenlowglossplastic"/>
+				<swtexture path="images\textures\metal\cast\cast_fine.jpg"/>
+			</shaders>
+			<swatchcolor RGB="48a953">
+				<sldcolorswatch:Optical Ambient="0.500000" Transparency="0.000000" Diffuse="0.800000" Specularity="0.800000" Shininess="0.000000" Emission="0.312500"/>
+			</swatchcolor>
+			<xhatch name="Flexible Material" angle="0.785398" scale="2.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="2000000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000009"/>
+				<DENS displayname="Mass density" value=".067"/>
+				<KX displayname="Thermal conductivity" value="2"/>
+				<SIGXT displayname="Tensile strength" value="44000"/>
+				<SIGXC displayname="Compressive strength" value="70000"/>
+				<SIGYLD displayname="Yield strength" value="61000"/>
+			</physicalproperties>
+		</material>
+		<material name="G-10 Glass Laminate">
+			<shaders>
+				<pwshader2 path="\plastic\low gloss\green low gloss plastic.p2m" name="green low gloss plastic" isNewShader="1"/>
+				<cgshader2 name="greenlowglossplastic"/>
+				<pwshader path="\plastic\low gloss\green low gloss plastic.p2m" name="green low gloss plastic" isNewShader="1"/>
+				<cgshader name="greenlowglossplastic"/>
+				<swtexture path="images\textures\metal\cast\cast_fine.jpg"/>
+			</shaders>
+			<swatchcolor RGB="48a953">
+				<sldcolorswatch:Optical Ambient="0.500000" Transparency="0.000000" Diffuse="0.800000" Specularity="0.800000" Shininess="0.000000" Emission="0.312500"/>
+			</swatchcolor>
+			<xhatch name="Flexible Material" angle="0.785398" scale="2.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="2550000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000006"/>
+				<DENS displayname="Mass density" value=".065"/>
+				<KX displayname="Thermal conductivity" value="2"/>
+				<SIGXT displayname="Tensile strength" value="45000"/>
+				<SIGXC displayname="Compressive strength" value="55000"/>
+				<SIGYLD displayname="Yield strength" value="70000"/>
+			</physicalproperties>
+		</material>
+		<material name="G-11 Glass Laminate">
+			<shaders>
+				<pwshader2 path="\plastic\low gloss\green low gloss plastic.p2m" name="green low gloss plastic" isNewShader="1"/>
+				<cgshader2 name="greenlowglossplastic"/>
+				<pwshader path="\plastic\low gloss\green low gloss plastic.p2m" name="green low gloss plastic" isNewShader="1"/>
+				<cgshader name="greenlowglossplastic"/>
+				<swtexture path="images\textures\metal\cast\cast_fine.jpg"/>
+			</shaders>
+			<swatchcolor RGB="48a953">
+				<sldcolorswatch:Optical Ambient="0.500000" Transparency="0.000000" Diffuse="0.800000" Specularity="0.800000" Shininess="0.000000" Emission="0.312500"/>
+			</swatchcolor>
+			<xhatch name="Flexible Material" angle="0.785398" scale="2.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="3000000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="7.7"/>
+				<DENS displayname="Mass density" value=".065"/>
+				<KX displayname="Thermal conductivity" value="2"/>
+				<SIGXT displayname="Tensile strength" value="43000"/>
+				<SIGXC displayname="Compressive strength" value="63000"/>
+				<SIGYLD displayname="Yield strength" value="80000"/>
+			</physicalproperties>
+		</material>
+		<material name="Glass EG-5">
+			<shaders>
+				<pwshader name="green transparent glass"/>
+				<cgshader name="GlassFibre"/>
+				<swtexture path="images\textures\plastic\rough\ryellow1.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0ffc0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ISO08W100" angle="0.785398" scale="2.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="71705475848.947189"/>
+				<NUXY displayname="Poisson's ratio" value="0.197000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000013"/>
+				<DENS displayname="Mass density" value="4733.262900"/>
+				<KX displayname="Thermal conductivity" value="0.900000"/>
+				<SIGXT displayname="Tensile strength" value="68258097.202363"/>
+				<SIGXC displayname="Compressive strength" value="1241056312.770240"/>
+			</physicalproperties>
+		</material>
+		<material name="Glass Hi-temp 3247">
+			<shaders>
+				<pwshader name="green transparent glass"/>
+				<cgshader name="GlassFibre"/>
+				<swtexture path="images\textures\plastic\rough\ryellow1.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0ffc0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ISO09W100" angle="2.356194" scale="2.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="68947572931.679993"/>
+				<NUXY displayname="Poisson's ratio" value="0.240000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000015"/>
+				<DENS displayname="Mass density" value="2542.999995"/>
+				<KX displayname="Thermal conductivity" value="1.100000"/>
+				<SIGXT displayname="Tensile strength" value="66189670.014413"/>
+				<SIGXC displayname="Compressive strength" value="903213205.405008"/>
+			</physicalproperties>
+		</material>
+		<material name="PCB Multi Layer">
+			<shaders>
+				<pwshader name="rough green plastic2"/>
+				<cgshader name="GlassFibre" ignorescolor="false"/>
+				<swtexture path="images\textures\silicon\silicondioxide.jpg"/>
+			</shaders>
+			<swatchcolor RGB="00c000">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI34 (Plastic Rubber)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic Modulus" value="8299999744.000000"/>
+				<NUXY displayname="Poissons Ratio" value="0.280000"/>
+				<GXY displayname="Shear Modulus" value="3200000000.000000"/>
+				<ALPX displayname="Thermal Expansion Coefficient" value="0.000030"/>
+				<DENS displayname="Density" value="1000.000488"/>
+				<KX displayname="Thermal Conductivity" value="0.530000"/>
+				<C displayname="Specific Heat" value="1500.000000"/>
+				<SIGXT displayname="Tensile Strength" value="41023812.000000"/>
+				<SIGYLD displayname="Yield Strength" value="41023812.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Alumina 96%">
+			<shaders>
+				<pwshader name="steel"/>
+				<cgshader name="StainlessSteel"/>
+				<swtexture path="images\textures\plastic\rough\rgray2.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ISO (Steel)" angle="1.570796" scale="2.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="303369320899.391970"/>
+				<NUXY displayname="Poisson's ratio" value="0.210000"/>
+				<GXY displayname="Shear modulus" value="124105631277.024000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000006"/>
+				<DENS displayname="Mass density" value="3709.106600"/>
+				<KX displayname="Thermal conductivity" value="24.700000"/>
+				<C displayname="Specific heat" value="879.060000"/>
+				<SIGXT displayname="Tensile strength" value="193053197.313947"/>
+				<SIGXC displayname="Compressive strength" value="2068427187950.399900"/>
+				<SIGYLD displayname="Yield strength" value="275000000.856262"/>
+			</physicalproperties>
+		</material>
+		<material name="Alumina 99%">
+			<shaders>
+				<pwshader name="steel"/>
+				<cgshader name="StainlessSteel"/>
+				<swtexture path="images\textures\plastic\rough\rgray2.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ISO (Steel)" angle="2.617994" scale="2.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="372316886936.314700"/>
+				<NUXY displayname="Poisson's ratio" value="0.220000"/>
+				<GXY displayname="Shear modulus" value="151684660449.695980"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000007"/>
+				<DENS displayname="Mass density" value="3875.186000"/>
+				<KX displayname="Thermal conductivity" value="35.600000"/>
+				<C displayname="Specific heat" value="879.060000"/>
+				<SIGXT displayname="Tensile strength" value="262000777.140384"/>
+				<SIGXC displayname="Compressive strength" value="2620007771.403840"/>
+				<SIGYLD displayname="Yield strength" value="275000000.856262"/>
+			</physicalproperties>
+		</material>
+		<material name="Boron Nitride">
+			<shaders>
+				<pwshader name="white glass"/>
+				<cgshader name="PlasticPTFE"/>
+				<swtexture path="images\textures\silicon\silicondioxide.jpg"/>
+			</shaders>
+			<swatchcolor RGB="ffffff">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ISO04W100" angle="0.785398" scale="2.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="482633010521.760010"/>
+				<NUXY displayname="Poisson's ratio" value="0.050000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000002"/>
+				<DENS displayname="Mass density" value="1935.000002"/>
+				<KX displayname="Thermal conductivity" value="54.400002"/>
+				<C displayname="Specific heat" value="1716.260000"/>
+				<SIGXC displayname="Compressive strength" value="63431767.097146"/>
+			</physicalproperties>
+		</material>
+		<material name="Sapphire">
+			<shaders>
+				<pwshader name="glass"/>
+				<cgshader name="GlassFibre"/>
+				<swtexture path="images\textures\plastic\polished\pplastic2.jpg"/>
+			</shaders>
+			<swatchcolor RGB="ffffff">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.500000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ISO02W100" angle="0.785398" scale="2.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="36197475789.131996"/>
+				<NUXY displayname="Poisson's ratio" value="0.290000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000006"/>
+				<DENS displayname="Mass density" value="3977.601630"/>
+				<KX displayname="Thermal conductivity" value="46.000000"/>
+				<C displayname="Specific heat" value="753.480000"/>
+				<SIGXT displayname="Tensile strength" value="399895923.003744"/>
+				<SIGXC displayname="Compressive strength" value="2000000031.299208"/>
+			</physicalproperties>
+		</material>
+		<material name="Steatite">
+			<shaders>
+				<pwshader name="steel"/>
+				<cgshader name="texture"/>
+				<swtexture path="images\textures\plastic\rough\rgray2.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ISO (Steel)" angle="1.570796" scale="2.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="99629242886.277603"/>
+				<NUXY displayname="Poisson's ratio" value="0.230000"/>
+				<GXY displayname="Shear modulus" value="41368543759.007996"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000007"/>
+				<DENS displayname="Mass density" value="2698.790305"/>
+				<KX displayname="Thermal conductivity" value="0.583188"/>
+				<C displayname="Specific heat" value="920.920000"/>
+				<SIGXT displayname="Tensile strength" value="68947572.931680"/>
+				<SIGXC displayname="Compressive strength" value="620528163.279877"/>
+			</physicalproperties>
+		</material>
+	</classification>
+	<classification name="Graphite">
+		<material name="Graphite AR-12">
+			<shaders>
+				<pwshader name="composite carbon fibre0"/>
+				<cgshader name="IronCast" ignorescolor="false"/>
+				<swtexture path="images\textures\stone\slate.jpg"/>
+			</shaders>
+			<swatchcolor RGB="404040">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="Concrete" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<DENS displayname="Density" value="1826.105278"/>
+			</physicalproperties>
+		</material>
+	</classification>
+	<classification name="Inconel Alloys (Nickel Chrome)">
+		<material name="Inconel 600">
+			<shaders>
+				<pwshader name="machined steel"/>
+				<cgshader name="NickelPolished"/>
+				<swtexture path="images\textures\metal\polished\chrome5.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI31 (Iron BrickStone)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="213737488384.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.290000"/>
+				<GXY displayname="Shear modulus" value="75842330624.000000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000013"/>
+				<DENS displayname="Mass density" value="8414.689453"/>
+				<KX displayname="Thermal conductivity" value="14.900000"/>
+				<C displayname="Specific heat" value="460.459991"/>
+				<SIGXT displayname="Tensile strength" value="620528192.000000"/>
+				<SIGYLD displayname="Yield strength" value="248211264.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Inconel 718">
+			<shaders>
+				<pwshader name="machined steel"/>
+				<cgshader name="NickelBrushed"/>
+				<swtexture path="images\textures\metal\brushed\wrought.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI31 (Iron BrickStone)" angle="0.000000" scale="1.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="199947960320.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.290000"/>
+				<GXY displayname="Shear modulus" value="77221281792.000000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000013"/>
+				<DENS displayname="Mass density" value="8193.250000"/>
+				<KX displayname="Thermal conductivity" value="11.200000"/>
+				<SIGXT displayname="Tensile strength" value="1454793728.000000"/>
+				<SIGYLD displayname="Yield strength" value="1199687808.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Inconel X-750">
+			<shaders>
+				<pwshader name="machined steel"/>
+				<cgshader name="NickelBrushed"/>
+				<swtexture path="images\textures\metal\polished\chrome5.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI31 (Iron BrickStone)" angle="1.570796" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="213737488384.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.340000"/>
+				<GXY displayname="Shear modulus" value="75842330624.000000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000013"/>
+				<DENS displayname="Mass density" value="8220.930664"/>
+				<KX displayname="Thermal conductivity" value="12.000000"/>
+				<C displayname="Specific heat" value="418.600006"/>
+				<SIGXT displayname="Tensile strength" value="1296214400.000000"/>
+				<SIGYLD displayname="Yield strength" value="951476480.000000"/>
+			</physicalproperties>
+		</material>
+	</classification>
+	<classification name="Nickel and its Alloys">
+		<material name="Nickel 200">
+			<shaders>
+				<pwshader name="steel"/>
+				<cgshader name="NickelBrushed"/>
+				<swtexture path="images\textures\metal\brushed\wrought.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI31 (Iron BrickStone)" angle="1.570796" scale="1.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="206842724352.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.264000"/>
+				<GXY displayname="Shear modulus" value="75842330624.000000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000013"/>
+				<DENS displayname="Mass density" value="8885.248047"/>
+				<KX displayname="Thermal conductivity" value="7.500000"/>
+				<C displayname="Specific heat" value="460.459991"/>
+				<SIGXT displayname="Tensile strength" value="461948736.000000"/>
+				<SIGYLD displayname="Yield strength" value="148237280.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Nickel Silver">
+			<shaders>
+				<pwshader name="polished steel"/>
+				<cgshader name="NickelPolished"/>
+				<swtexture path="images\textures\metal\brushed\brshmtl8.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI31 (Iron BrickStone)" angle="0.000000" scale="1.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="124105629696.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.340000"/>
+				<GXY displayname="Shear modulus" value="46884347904.000000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000016"/>
+				<DENS displayname="Mass density" value="8746.848633"/>
+				<KX displayname="Thermal conductivity" value="32.900002"/>
+				<C displayname="Specific heat" value="376.739990"/>
+				<SIGXT displayname="Tensile strength" value="399895936.000000"/>
+				<SIGYLD displayname="Yield strength" value="172368928.000000"/>
+			</physicalproperties>
+		</material>
+	</classification>
+	<classification name="Other Metals">
+		<material name="Alloy 42">
+			<shaders>
+				<pwshader name="polished steel"/>
+				<cgshader name="NickelBrushed"/>
+				<swtexture path="images\textures\metal\brushed\brshmtl8.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ISO08W100" angle="1.047198" scale="1.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="150305701888.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.330000"/>
+				<GXY displayname="Shear modulus" value="58605436928.000000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000005"/>
+				<DENS displayname="Mass density" value="8110.210938"/>
+				<KX displayname="Thermal conductivity" value="10.467485"/>
+				<C displayname="Specific heat" value="502.320007"/>
+				<SIGXT displayname="Tensile strength" value="489527776.000000"/>
+				<SIGYLD displayname="Yield strength" value="206842720.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Alloy 52">
+			<shaders>
+				<pwshader name="polished steel"/>
+				<cgshader name="NickelPolished"/>
+				<swtexture path="images\textures\metal\brushed\brshmtl8.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ISO08W100" angle="1.047198" scale="1.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="165474189312.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.330000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000010"/>
+				<DENS displayname="Mass density" value="8303.969727"/>
+				<KX displayname="Thermal conductivity" value="14.000000"/>
+				<C displayname="Specific heat" value="502.320007"/>
+				<SIGXT displayname="Tensile strength" value="517106784.000000"/>
+				<SIGYLD displayname="Yield strength" value="275790304.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Invar 36">
+			<shaders>
+				<pwshader name="stainless steel"/>
+				<cgshader name="StainlessSteel"/>
+				<swtexture path="images\textures\metal\brushed\brshmtl8.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ISO (Steel)" angle="2.617994" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="141342517615.186710"/>
+				<NUXY displayname="Poisson's ratio" value="0.330000"/>
+				<GXY displayname="Shear modulus" value="55847534074.660797"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000002"/>
+				<DENS displayname="Mass density" value="8054.850900"/>
+				<KX displayname="Thermal conductivity" value="10.500000"/>
+				<C displayname="Specific heat" value="502.320000"/>
+				<SIGXT displayname="Tensile strength" value="448159217.161163"/>
+				<SIGYLD displayname="Yield strength" value="275790291.726720"/>
+			</physicalproperties>
+		</material>
+		<material name="Kovar">
+			<shaders>
+				<pwshader name="stainless steel mesh"/>
+				<cgshader name="Zirconium"/>
+				<swtexture path="images\textures\metal\brushed\brshmtl8.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ISO (Steel)" angle="2.617994" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="206842724352.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.317000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000006"/>
+				<DENS displayname="Mass density" value="8359.330078"/>
+				<KX displayname="Thermal conductivity" value="17.299999"/>
+				<C displayname="Specific heat" value="460.459991"/>
+				<SIGXT displayname="Tensile strength" value="517106784.000000"/>
+				<SIGYLD displayname="Yield strength" value="344737856.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Magnesium Alloy AZ 31B">
+			<shaders>
+				<pwshader name="magnesium"/>
+				<cgshader name="AlloyMagnesium"/>
+				<swtexture path="images\textures\metal\brushed\brshmtl8.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI31 (Iron BrickStone)" angle="1.570796" scale="1.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="44815921716.116272"/>
+				<NUXY displayname="Poisson's ratio" value="0.350000"/>
+				<GXY displayname="Shear modulus" value="16547418193.078930"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000027"/>
+				<DENS displayname="Mass density" value="1771.513600"/>
+				<KX displayname="Thermal conductivity" value="94.799999"/>
+				<C displayname="Specific heat" value="1046.500000"/>
+				<SIGXT displayname="Tensile strength" value="255106019.847216"/>
+				<SIGXC displayname="Compressive strength" value="68947572.931680"/>
+				<SIGYLD displayname="Yield strength" value="151684660.449696"/>
+			</physicalproperties>
+		</material>
+		<material name="Platinum 479">
+			<shaders>
+				<pwshader name="platinum"/>
+				<cgshader name="SteelSatin"/>
+				<swtexture path="images\textures\metal\brushed\brshmtl8.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI37 (Lead Zinc Mg)" angle="1.570796" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="172000000000.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.380000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000009"/>
+				<DENS displayname="Mass density" value="21285.843000"/>
+				<KX displayname="Thermal conductivity" value="72.000000"/>
+				<C displayname="Specific heat" value="130.000000"/>
+				<SIGXT displayname="Tensile strength" value="132000000.000000"/>
+				<SIGYLD displayname="Yield strength" value="25800000.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Tinel H">
+			<shaders>
+				<pwshader name="steel"/>
+				<cgshader name="SteelCastStainless"/>
+				<swtexture path="images\textures\metal\brushed\brshmtl8.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ISO (Steel)" angle="2.094395" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="75842330224.847992"/>
+				<NUXY displayname="Poisson's ratio" value="0.330000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000011"/>
+				<DENS displayname="Mass density" value="6919.975000"/>
+				<KX displayname="Thermal conductivity" value="10.400000"/>
+				<C displayname="Specific heat" value="837.200000"/>
+				<SIGXT displayname="Tensile strength" value="827370875.180160"/>
+				<SIGYLD displayname="Yield strength" value="482633010.521760"/>
+			</physicalproperties>
+		</material>
+		<material name="Tool Steel A2">
+			<shaders>
+				<pwshader name="magnesium"/>
+				<cgshader name="texture"/>
+				<swtexture path="images\textures\metal\brushed\brshmtl8.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI31 (Iron BrickStone)" angle="1.570796" scale="1.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="203395340148.455990"/>
+				<NUXY displayname="Poisson's ratio" value="0.285000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000012"/>
+				<DENS displayname="Mass density" value="7861.091600"/>
+				<KX displayname="Thermal conductivity" value="26.100000"/>
+				<C displayname="Specific heat" value="460.460000"/>
+				<SIGYLD displayname="Yield strength" value="2171848478.400347"/>
+			</physicalproperties>
+		</material>
+		<material name="Tool Steel O1">
+			<shaders>
+				<pwshader name="magnesium"/>
+				<cgshader name="texture"/>
+				<swtexture path="images\textures\metal\brushed\brshmtl8.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI31 (Iron BrickStone)" angle="1.570796" scale="1.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="213737482982.965270"/>
+				<NUXY displayname="Poisson's ratio" value="0.285000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000012"/>
+				<DENS displayname="Mass density" value="7833.411700"/>
+				<KX displayname="Thermal conductivity" value="32.000000"/>
+				<C displayname="Specific heat" value="460.460000"/>
+				<SIGYLD displayname="Yield strength" value="2171848478.400347"/>
+			</physicalproperties>
+		</material>
+		<material name="Zinc AG40A">
+			<shaders>
+				<pwshader name="magnesium"/>
+				<cgshader name="Molybdenum"/>
+				<swtexture path="images\textures\metal\brushed\brshmtl8.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI31 (Iron BrickStone)" angle="1.570796" scale="1.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="85494988800.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.270000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000027"/>
+				<DENS displayname="Mass density" value="6643.175781"/>
+				<KX displayname="Thermal conductivity" value="112.899307"/>
+				<C displayname="Specific heat" value="418.600006"/>
+				<SIGXT displayname="Tensile strength" value="282685056.000000"/>
+				<SIGXC displayname="Compressive strength" value="413685440.000000"/>
+				<SIGYLD displayname="Yield strength" value="220632240.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Zinc ZA-12">
+			<shaders>
+				<pwshader2 path="\metal\zinc\satin finish zinc.p2m" name="satin finish zinc" isNewShader="1"/>
+				<cgshader2 name="satinfinishzinc"/>
+				<pwshader path="\metal\zinc\satin finish zinc.p2m" name="satin finish zinc" isNewShader="1"/>
+				<cgshader name="satinfinishzinc"/>
+				<swtexture path="images\textures\metal\cast\cast_fine.jpg"/>
+			</shaders>
+			<swatchcolor RGB="fcfffc">
+				<sldcolorswatch:Optical Ambient="0.000000" Transparency="0.000000" Diffuse="0.300000" Specularity="0.000000" Shininess="0.000000" Emission="0.312500"/>
+			</swatchcolor>
+			<xhatch name="ANSI37 (Lead Zinc Mg)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="8321973648318565.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.300000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000013"/>
+				<DENS displayname="Mass density" value="6034.220929"/>
+				<KX displayname="Thermal conductivity" value="116.100000"/>
+				<C displayname="Specific heat" value="448.000000"/>
+				<SIGXT displayname="Tensile strength" value="299232523.891488"/>
+				<SIGYLD displayname="Yield strength" value="204774330.865834"/>
+			</physicalproperties>
+		</material>
+		<material name="Moly 361">
+			<shaders>
+				<pwshader name="molybdenum"/>
+				<cgshader name="Molybdenum" ignorescolor="false"/>
+				<swtexture path="images\textures\metal\polished\chrome1.jpg"/>
+			</shaders>
+			<swatchcolor RGB="808080">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI32 (Steel)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="328997142528.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.380000"/>
+				<GXY displayname="Shear modulus" value="120000004096.000000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000005"/>
+				<DENS displayname="Mass density" value="10000.000000"/>
+				<KX displayname="Thermal conductivity" value="150.000000"/>
+				<C displayname="Specific heat" value="270.000000"/>
+				<SIGXT displayname="Tensile strength" value="584675392.000000"/>
+				<SIGYLD displayname="Yield strength" value="449538176.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Moly 362">
+			<shaders>
+				<pwshader name="molybdenum"/>
+				<cgshader name="Molybdenum" ignorescolor="false"/>
+				<swtexture path="images\textures\metal\polished\chrome1.jpg"/>
+			</shaders>
+			<swatchcolor RGB="808080">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI32 (Steel)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="315090403328.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.380000"/>
+				<GXY displayname="Shear modulus" value="120000004096.000000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000005"/>
+				<DENS displayname="Mass density" value="10000.000000"/>
+				<KX displayname="Thermal conductivity" value="150.000000"/>
+				<C displayname="Specific heat" value="270.000000"/>
+				<SIGXT displayname="Tensile strength" value="896318464.000000"/>
+				<SIGYLD displayname="Yield strength" value="827370880.000000"/>
+			</physicalproperties>
+		</material>
+	</classification>
+	<classification name="PE Crystals and Compensators">
+		<material name="P-2 (Compression Quartz)">
+			<shaders>
+				<pwshader name="diamond"/>
+				<cgshader name="texture"/>
+				<swtexture path="images\textures\plastic\polished\pplastic2.jpg"/>
+			</shaders>
+			<swatchcolor RGB="ffffff">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="Geological Rock" angle="0.785398" scale="2.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="86184466164.599991"/>
+				<NUXY displayname="Poisson's ratio" value="0.170000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000008"/>
+				<DENS displayname="Mass density" value="2654.502410"/>
+				<KX displayname="Thermal conductivity" value="1.400000"/>
+				<C displayname="Specific heat" value="669.999983"/>
+				<SIGXT displayname="Tensile strength" value="47999999.923810"/>
+				<SIGXC displayname="Compressive strength" value="874999996.456510"/>
+			</physicalproperties>
+		</material>
+		<material name="P-8 (PZT)">
+			<shaders>
+				<pwshader name="heat resistant glass"/>
+				<cgshader name="ceramicporcelain"/>
+				<swtexture path="images\textures\plastic\rough\rgray2.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="Geological Rock" angle="0.785398" scale="2.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="75152850944.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.290000"/>
+				<GXY displayname="Shear modulus" value="28687906816.000000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000002"/>
+				<DENS displayname="Mass density" value="7659.587402"/>
+				<KX displayname="Thermal conductivity" value="1.400000"/>
+				<C displayname="Specific heat" value="385.000000"/>
+				<SIGXC displayname="Compressive strength" value="597844416.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="P-10 (Bismuth Titanate, Med-Temp)">
+			<shaders>
+				<pwshader name="heat resistant glass"/>
+				<cgshader name="texture"/>
+				<swtexture path="images\textures\plastic\polished\pplastic2.jpg"/>
+			</shaders>
+			<swatchcolor RGB="ffffc0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="Flexible Material" angle="2.356194" scale="2.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="72394951578.263992"/>
+				<NUXY displayname="Poisson's ratio" value="0.330000"/>
+				<GXY displayname="Shear modulus" value="28600000006.314209"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000014"/>
+				<DENS displayname="Mass density" value="6975.334800"/>
+				<KX displayname="Thermal conductivity" value="1.400000"/>
+				<C displayname="Specific heat" value="384.999999"/>
+				<SIGXC displayname="Compressive strength" value="600000002.495005"/>
+			</physicalproperties>
+		</material>
+		<material name="P-14 (Bismuth Titanate, Hi-Temp)">
+			<shaders>
+				<pwshader name="silica glass"/>
+				<cgshader name="texture"/>
+				<swtexture path="images\textures\plastic\polished\pplastic2.jpg"/>
+			</shaders>
+			<swatchcolor RGB="ffffc0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="Flexible Material" angle="0.785398" scale="1.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="99973980750.935989"/>
+				<NUXY displayname="Poisson's ratio" value="0.290000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000014"/>
+				<DENS displayname="Mass density" value="7584.292600"/>
+			</physicalproperties>
+		</material>
+		<material name="P-15 (Lithium Niobate)">
+			<shaders>
+				<pwshader name="silica glass"/>
+				<cgshader name="texture"/>
+				<swtexture path="images\textures\plastic\polished\pplastic2.jpg"/>
+			</shaders>
+			<swatchcolor RGB="ffffc0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="Flexible Material" angle="0.785398" scale="2.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="245999996679.255040"/>
+				<NUXY displayname="Poisson's ratio" value="0.290000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000014"/>
+				<DENS displayname="Mass density" value="4639.999906"/>
+				<KX displayname="Thermal conductivity" value="38.000000"/>
+				<C displayname="Specific heat" value="628.000004"/>
+			</physicalproperties>
+		</material>
+		<material name="P-17 (Compression BGO)">
+			<shaders>
+				<pwshader name="silica glass"/>
+				<cgshader name="texture"/>
+				<swtexture path="images\textures\plastic\polished\pplastic2.jpg"/>
+			</shaders>
+			<swatchcolor RGB="ffffc0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="Flexible Material" angle="0.785398" scale="2.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="120000003256.903950"/>
+				<NUXY displayname="Poisson's ratio" value="0.290000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000015"/>
+				<DENS displayname="Mass density" value="9199.999918"/>
+			</physicalproperties>
+		</material>
+		<material name="P-19 (Shear BGO)">
+			<shaders>
+				<pwshader name="silica glass"/>
+				<cgshader name="texture"/>
+				<swtexture path="images\textures\plastic\polished\pplastic2.jpg"/>
+			</shaders>
+			<swatchcolor RGB="ffffc0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="Flexible Material" angle="0.785398" scale="2.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="120000003256.903950"/>
+				<NUXY displayname="Poisson's ratio" value="0.290000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000015"/>
+				<DENS displayname="Mass density" value="9199.999918"/>
+			</physicalproperties>
+		</material>
+		<material name="P-21 (Compression Tourmaline)">
+			<shaders>
+				<pwshader name="green vein marble polished"/>
+				<cgshader name="texture"/>
+				<swtexture path="images\textures\stone\concrete2.jpg"/>
+			</shaders>
+			<swatchcolor RGB="ffffc0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="Geological Rock" angle="0.785398" scale="3.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="160000000000.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.323000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000014"/>
+				<DENS displayname="Mass density" value="3100.000000"/>
+				<C displayname="Specific heat" value="2000.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="P-22 (Shear Tourmaline)">
+			<shaders>
+				<pwshader name="translucent shiny plastic blue"/>
+				<cgshader name="Vanadium"/>
+				<swtexture path="images\textures\stone\marble2.jpg"/>
+			</shaders>
+			<swatchcolor RGB="ffffff">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="Geological Rock" angle="2.356194" scale="3.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="160000000000.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.323000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000014"/>
+				<DENS displayname="Mass density" value="3100.000000"/>
+				<C displayname="Specific heat" value="2000.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="P-23 (Shear Quartz)">
+			<shaders>
+				<pwshader name="diamond"/>
+				<cgshader name="texture"/>
+				<swtexture path="images\textures\plastic\polished\pplastic2.jpg"/>
+			</shaders>
+			<swatchcolor RGB="ffffff">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.500000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="Geological Rock" angle="2.356194" scale="2.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="86184466164.599991"/>
+				<NUXY displayname="Poisson's ratio" value="0.170000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000008"/>
+				<DENS displayname="Mass density" value="2654.502410"/>
+				<KX displayname="Thermal conductivity" value="1.400000"/>
+				<C displayname="Specific heat" value="669.999983"/>
+				<SIGXT displayname="Tensile strength" value="47999999.923810"/>
+				<SIGXC displayname="Compressive strength" value="874999996.456510"/>
+			</physicalproperties>
+		</material>
+		<material name="K-8 (Compensator)">
+			<shaders>
+				<pwshader name="heat resistant glass"/>
+				<cgshader name="RubberSoft"/>
+				<swtexture path="images\textures\plastic\faded\fyellow.jpg"/>
+			</shaders>
+			<swatchcolor RGB="ffffc0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="Flexible Material" angle="0.785398" scale="2.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="75152854495.531204"/>
+				<NUXY displayname="Poisson's ratio" value="0.290000"/>
+				<GXY displayname="Shear modulus" value="28682190339.578880"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000002"/>
+				<DENS displayname="Mass density" value="7649.999977"/>
+				<C displayname="Specific heat" value="384.999999"/>
+			</physicalproperties>
+		</material>
+		<material name="K-55 (Compensator)">
+			<shaders>
+				<pwshader name="heat resistant glass"/>
+				<cgshader name="RubberSoft"/>
+				<swtexture path="images\textures\plastic\polished\pplastic2.jpg"/>
+			</shaders>
+			<swatchcolor RGB="ffffc0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="Flexible Material" angle="2.356194" scale="1.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="72394951578.263992"/>
+				<NUXY displayname="Poisson's ratio" value="0.330000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000014"/>
+				<DENS displayname="Mass density" value="6975.334800"/>
+			</physicalproperties>
+		</material>
+	</classification>
+	<classification name="Titanium and its Alloys">
+		<material name="Titanium CP, GR 2">
+			<shaders>
+				<pwshader name="titanium"/>
+				<cgshader name="Titanium"/>
+				<swtexture path="images\textures\metal\rough\rmetal9.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI33 (Bronze Brass)" angle="0.000000" scale="1.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="102731874304.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.340000"/>
+				<GXY displayname="Shear modulus" value="44815921152.000000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000009"/>
+				<DENS displayname="Mass density" value="4511.823730"/>
+				<KX displayname="Thermal conductivity" value="16.400000"/>
+				<C displayname="Specific heat" value="544.179993"/>
+				<SIGXT displayname="Tensile strength" value="379211648.000000"/>
+				<SIGYLD displayname="Yield strength" value="310264064.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Titanium Alloy 6Al-4V">
+			<shaders>
+				<pwshader name="titanium"/>
+				<cgshader name="Titanium"/>
+				<swtexture path="images\textures\metal\rough\rmetal9.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI33 (Bronze Brass)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="113763500032.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.330000"/>
+				<GXY displayname="Shear modulus" value="42058018816.000000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000010"/>
+				<DENS displayname="Mass density" value="4428.784180"/>
+				<KX displayname="Thermal conductivity" value="6.900000"/>
+				<C displayname="Specific heat" value="502.320007"/>
+				<SIGXT displayname="Tensile strength" value="1206582528.000000"/>
+				<SIGYLD displayname="Yield strength" value="896318464.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Titanium Alloy 13V-11Cr-3Al">
+			<shaders>
+				<pwshader name="titanium"/>
+				<cgshader name="Titanium"/>
+				<swtexture path="images\textures\metal\cast\cast_fine.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI33 (Bronze Brass)" angle="1.570796" scale="2.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="103421362176.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.304000"/>
+				<GXY displayname="Shear modulus" value="42747494400.000000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000010"/>
+				<DENS displayname="Mass density" value="4843.982422"/>
+				<KX displayname="Thermal conductivity" value="6.900000"/>
+				<C displayname="Specific heat" value="502.320007"/>
+				<SIGXT displayname="Tensile strength" value="1241056256.000000"/>
+				<SIGYLD displayname="Yield strength" value="1172108672.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Ti 6Al-4V Sheet">
+			<shaders>
+				<pwshader name="titanium"/>
+				<cgshader name="Titanium" ignorescolor="false"/>
+				<swtexture path="images\textures\metal\polished\chrome5.jpg"/>
+			</shaders>
+			<swatchcolor RGB="ffffff">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI31 (Iron BrickStone)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="104800313344.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.310000"/>
+				<GXY displayname="Shear modulus" value="41023807488.000000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000009"/>
+				<DENS displayname="Mass density" value="4428.784180"/>
+				<KX displayname="Thermal conductivity" value="6.700000"/>
+				<C displayname="Specific heat" value="586.039978"/>
+				<SIGXT displayname="Tensile strength" value="1034213568.000000"/>
+				<SIGYLD displayname="Yield strength" value="979055552.000000"/>
+				<RK displayname="Hardening factor (0.0-1.0; 0.0=isotropic; 1.0=kinematic)" value="0.850000"/>
+				<materialcurve id="1000" name="Stress Strain curve" type="100">
+					<data points="0.01 1.05e+009"/>
+					<data points="0.02 1.145e+009"/>
+					<data points="0.03 1.16e+009"/>
+					<data points="0.04 1.165e+009"/>
+					<data points="0.06 1.14e+009"/>
+					<data points="0.07 1.1e+009"/>
+					<data points="0.08 1.05e+009"/>
+				</materialcurve>
+			</physicalproperties>
+		</material>
+		<material name="Ti-6Al-4V Annealed">
+			<shaders>
+				<pwshader name="titanium"/>
+				<cgshader name="Titanium" ignorescolor="false"/>
+				<swtexture path="images\textures\metal\brushed\brshmtl3.jpg"/>
+			</shaders>
+			<swatchcolor RGB="ffffff">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI31 (Iron BrickStone)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="112384540672.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.310000"/>
+				<GXY displayname="Shear modulus" value="41023807488.000000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000009"/>
+				<DENS displayname="Mass density" value="4428.784180"/>
+				<KX displayname="Thermal conductivity" value="6.700000"/>
+				<C displayname="Specific heat" value="586.039978"/>
+				<SIGXT displayname="Tensile strength" value="896318464.000000"/>
+				<SIGYLD displayname="Yield strength" value="827370880.000000"/>
+				<RK displayname="Hardening factor (0.0-1.0; 0.0=isotropic; 1.0=kinematic)" value="0.850000"/>
+				<materialcurve id="1000" name="Stress Strain curve" type="100">
+					<data points="0.01 1.05e+009"/>
+					<data points="0.02 1.145e+009"/>
+					<data points="0.03 1.16e+009"/>
+					<data points="0.04 1.165e+009"/>
+					<data points="0.06 1.14e+009"/>
+					<data points="0.07 1.1e+009"/>
+					<data points="0.08 1.05e+009"/>
+				</materialcurve>
+			</physicalproperties>
+		</material>
+	</classification>
+	<classification name="Tungsten Alloys">
+		<material name="Tungsten Alloy 17">
+			<shaders>
+				<pwshader name="tungsten"/>
+				<cgshader name="Tungsten"/>
+				<swtexture path="images\textures\metal\brushed\brshmtl8.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ISO08W100" angle="0.785398" scale="1.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="275790299136.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.280000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000005"/>
+				<DENS displayname="Mass density" value="16995.458984"/>
+				<KX displayname="Thermal conductivity" value="96.200005"/>
+				<SIGXT displayname="Tensile strength" value="758423296.000000"/>
+				<SIGYLD displayname="Yield strength" value="551580608.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Tungsten Alloy 18">
+			<shaders>
+				<pwshader name="tungsten"/>
+				<cgshader name="Tungsten"/>
+				<swtexture path="images\textures\metal\brushed\brshmtl8.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ISO08W100" angle="0.785398" scale="2.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="344737873920.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.280000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000005"/>
+				<DENS displayname="Mass density" value="17991.935547"/>
+				<KX displayname="Thermal conductivity" value="108.800011"/>
+				<SIGXT displayname="Tensile strength" value="827370880.000000"/>
+				<SIGYLD displayname="Yield strength" value="620528192.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Tungsten Alloy 18.5">
+			<shaders>
+				<pwshader name="tungsten"/>
+				<cgshader name="Tungsten"/>
+				<swtexture path="images\textures\metal\brushed\brshmtl8.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ISO08W100" angle="2.356194" scale="2.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="365422149632.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.280000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000005"/>
+				<DENS displayname="Mass density" value="18490.173828"/>
+				<KX displayname="Thermal conductivity" value="125.500000"/>
+				<SIGXT displayname="Tensile strength" value="848055168.000000"/>
+				<SIGYLD displayname="Yield strength" value="586054400.000000"/>
+			</physicalproperties>
+		</material>
+	</classification>
+	<classification name="Permanent magnets">
+		<material name="NdFeB (fully sintered)">
+			<shaders>
+				<pwshader2 path="\metal\lead\matte lead.p2m" name="matte lead" isNewShader="1"/>
+				<cgshader2 name="mattelead"/>
+				<pwshader path="\metal\lead\matte lead.p2m" name="matte lead" isNewShader="1"/>
+				<cgshader name="mattelead"/>
+				<swtexture path="images\textures\metal\brushed\brshmtl8.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="0.700000" Shininess="0.300000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="Flexible Material" angle="0.785398" scale="1.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="21896400.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.330000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000003"/>
+				<DENS displayname="Mass density" value="0.303000"/>
+				<KX displayname="Thermal conductivity" value="6.200000"/>
+				<SIGXT displayname="Tensile strength" value="12000.000000"/>
+				<SIGXC displayname="Compressive strength" value="93900.000000"/>
+				<SIGYLD displayname="Yield strength" value="12000.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="SmCo 1:5 type (sintered)">
+			<shaders>
+				<pwshader2 path="\metal\iron\matte iron.p2m" name="matte iron" isNewShader="1"/>
+				<cgshader2 name="matteiron"/>
+				<pwshader path="\metal\iron\matte iron.p2m" name="matte iron" isNewShader="1"/>
+				<cgshader name="matteiron"/>
+				<swtexture path="images\textures\metal\brushed\brshmtl8.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="0.700000" Shininess="0.300000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="Flexible Material" angle="0.785398" scale="1.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="23000000.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.300000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000006"/>
+				<DENS displayname="Mass density" value="0.296000"/>
+				<KX displayname="Thermal conductivity" value="23.000000"/>
+				<C displayname="Specific heat" value="360.000000"/>
+				<SIGXT displayname="Tensile strength" value="6000.000000"/>
+				<SIGXC displayname="Compressive strength" value="130534.000000"/>
+				<SIGYLD displayname="Yield strength" value="6000.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="SmCo 2:17 type (sintered)">
+			<shaders>
+				<pwshader2 path="\metal\iron\sandblasted iron.p2m" name="sandblasted iron" isNewShader="1"/>
+				<cgshader2 name="sandblastediron"/>
+				<pwshader path="\metal\iron\sandblasted iron.p2m" name="sandblasted iron" isNewShader="1"/>
+				<cgshader name="sandblastediron"/>
+				<swtexture path="images\textures\metal\brushed\brshmtl8.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="0.700000" Shininess="0.300000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="Flexible Material" angle="2.617994" scale="1.500000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="17000000.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.300000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000008"/>
+				<DENS displayname="Mass density" value="0.303000"/>
+				<KX displayname="Thermal conductivity" value="23.000000"/>
+				<C displayname="Specific heat" value="360.000000"/>
+				<SIGXT displayname="Tensile strength" value="5000.000000"/>
+				<SIGXC displayname="Compressive strength" value="130534.000000"/>
+				<SIGYLD displayname="Yield strength" value="5000.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Hard Ferrite">
+			<shaders>
+				<pwshader2 path="\metal\iron\matte iron.p2m" name="matte iron" isNewShader="1"/>
+				<cgshader2 name="matteiron"/>
+				<pwshader path="\metal\iron\matte iron.p2m" name="matte iron" isNewShader="1"/>
+				<cgshader name="matteiron"/>
+				<swtexture path="images\textures\metal\brushed\brshmtl8.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="Flexible Material" angle="2.094395" scale="2.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="26000000.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.280000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000014"/>
+				<DENS displayname="Mass density" value="0.177000"/>
+				<KX displayname="Thermal conductivity" value="2.930000"/>
+				<C displayname="Specific heat" value="837.000000"/>
+				<SIGXT displayname="Tensile strength" value="5000.000000"/>
+				<SIGXC displayname="Compressive strength" value="130000.000000"/>
+				<SIGYLD displayname="Yield strength" value="5000.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Alnico (Cast)">
+			<shaders>
+				<pwshader2 path="\metal\iron\cast iron.p2m" name="cast iron" isNewShader="1"/>
+				<cgshader2 name="castiron"/>
+				<pwshader path="\metal\iron\cast iron.p2m" name="cast iron" isNewShader="1"/>
+				<cgshader name="castiron"/>
+				<swtexture path="images\textures\metal\brushed\brshmtl8.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="Flexible Material" angle="0.785398" scale="2.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="29000000.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.300000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000011"/>
+				<DENS displayname="Mass density" value="0.265000"/>
+				<KX displayname="Thermal conductivity" value="50.000000"/>
+				<C displayname="Specific heat" value="400.000000"/>
+				<SIGXT displayname="Tensile strength" value="5400.000000"/>
+				<SIGXC displayname="Compressive strength" value="5400.000000"/>
+				<SIGYLD displayname="Yield strength" value="5400.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Alnico (Sintered)">
+			<shaders>
+				<pwshader2 path="\metal\iron\matte iron.p2m" name="matte iron" isNewShader="1"/>
+				<cgshader2 name="matteiron"/>
+				<pwshader path="\metal\iron\matte iron.p2m" name="matte iron" isNewShader="1"/>
+				<cgshader name="matteiron"/>
+				<swtexture path="images\textures\metal\brushed\brshmtl8.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="Flexible Material" angle="2.617994" scale="2.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="29000000.000000"/>
+				<NUXY displayname="Poisson's ratio" value="0.300000"/>
+				<ALPX displayname="Thermal expansion coefficient" value="0.000011"/>
+				<DENS displayname="Mass density" value="0.250000"/>
+				<KX displayname="Thermal conductivity" value="50.000000"/>
+				<C displayname="Specific heat" value="400.000000"/>
+				<SIGXT displayname="Tensile strength" value="43500.000000"/>
+				<SIGXC displayname="Compressive strength" value="58000.000000"/>
+				<SIGYLD displayname="Yield strength" value="50000.000000"/>
+			</physicalproperties>
+		</material>
+	</classification>
+	<classification name="Propellants">
+		<material name="914a Propellant">
+			<shaders>
+				<pwshader name="rough blue plastic1"/>
+				<cgshader name="Zirconium" ignorescolor="false"/>
+				<swtexture path="images\textures\silicon\silicon.jpg"/>
+			</shaders>
+			<swatchcolor RGB="8080ff">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI34 (Plastic Rubber)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic Modulus" value="6100000.000000"/>
+				<NUXY displayname="Poissons Ratio" value="0.490000"/>
+				<GXY displayname="Shear Modulus" value="2900000.000000"/>
+				<ALPX displayname="Thermal Expansion Coefficient" value="0.000670"/>
+				<DENS displayname="Density" value="1689.858643"/>
+				<KX displayname="Thermal Conductivity" value="0.140000"/>
+				<SIGXT displayname="Tensile Strength" value="775001.562500"/>
+				<SIGYLD displayname="Yield Strength" value="310000.625000"/>
+			</physicalproperties>
+		</material>
+		<material name="Hypel 914A">
+			<shaders>
+				<pwshader name="blue glass"/>
+				<cgshader name="Zirconium" ignorescolor="false"/>
+				<swtexture path="images\textures\stone\asphalt.jpg"/>
+			</shaders>
+			<swatchcolor RGB="8080ff">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI32 (Steel)" angle="0.000000" scale="1.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic modulus" value="7791075.500000"/>
+				<NUXY displayname="Poisson's ratio" value="0.350000"/>
+				<DENS displayname="Mass density" value="1768.745605"/>
+				<SIGXT displayname="Tensile strength" value="1227266.750000"/>
+				<SIGXC displayname="Compressive strength" value="6722388.500000"/>
+			</physicalproperties>
+		</material>
+		<material name="Guanodine">
+			<shaders>
+				<pwshader name="brushed blue plastic"/>
+				<cgshader name="PlasticNylon"/>
+				<swtexture path="images\textures\plastic\rough\rcyan2.jpg"/>
+			</shaders>
+			<swatchcolor RGB="00c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI38 (Aluminum)" angle="0.000000" scale="4.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic Modulus" value="220589998080.000000"/>
+				<NUXY displayname="Poissons Ratio" value="0.220000"/>
+				<GXY displayname="Shear Modulus" value="90407002112.000000"/>
+				<ALPX displayname="Thermal Expansion Coefficient" value="0.000011"/>
+				<DENS displayname="Density" value="996.476868"/>
+				<KX displayname="Thermal Conductivity" value="1.494900"/>
+				<C displayname="Specific Heat" value="877.960022"/>
+				<SIGXT displayname="Tensile Strength" value="172340000.000000"/>
+				<SIGXC displayname="Compressive Strength" value="551489984.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="AP Loose Load">
+			<shaders>
+				<pwshader name="porcelain"/>
+				<cgshader name="texture"/>
+				<swtexture path="images\textures\silicon\silicon.jpg"/>
+			</shaders>
+			<swatchcolor RGB="8080ff">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI38 (Aluminum)" angle="0.000000" scale="4.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic Modulus" value="220589998080.000000"/>
+				<NUXY displayname="Poissons Ratio" value="0.220000"/>
+				<GXY displayname="Shear Modulus" value="90407002112.000000"/>
+				<ALPX displayname="Thermal Expansion Coefficient" value="0.000011"/>
+				<DENS displayname="Density" value="691.997803"/>
+				<KX displayname="Thermal Conductivity" value="1.494900"/>
+				<C displayname="Specific Heat" value="877.960022"/>
+				<SIGXT displayname="Tensile Strength" value="172340000.000000"/>
+				<SIGXC displayname="Compressive Strength" value="551489984.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="AP">
+			<shaders>
+				<pwshader name="porcelain"/>
+				<cgshader name="texture"/>
+				<swtexture path="images\textures\silicon\silicon.jpg"/>
+			</shaders>
+			<swatchcolor RGB="8080ff">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI38 (Aluminum)" angle="0.000000" scale="4.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic Modulus" value="220589998080.000000"/>
+				<NUXY displayname="Poissons Ratio" value="0.220000"/>
+				<GXY displayname="Shear Modulus" value="90407002112.000000"/>
+				<ALPX displayname="Thermal Expansion Coefficient" value="0.000011"/>
+				<DENS displayname="Density" value="1687.500607"/>
+				<KX displayname="Thermal Conductivity" value="1.494900"/>
+				<C displayname="Specific Heat" value="877.960022"/>
+				<SIGXT displayname="Tensile Strength" value="172340000.000000"/>
+				<SIGXC displayname="Compressive Strength" value="551489984.000000"/>
+			</physicalproperties>
+		</material>
+	</classification>
+	<classification name="Ignition Material">
+		<material name="BKNO3 Granules">
+			<shaders>
+				<pwshader name="asphalt 1"/>
+				<cgshader name="CarbonFibre"/>
+				<swtexture path="images\textures\plastic\bumpy\meshgray.jpg"/>
+			</shaders>
+			<swatchcolor RGB="404040">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="Insulation" angle="0.000000" scale="3.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic Modulus" value="220589998080.000000"/>
+				<NUXY displayname="Poissons Ratio" value="0.220000"/>
+				<GXY displayname="Shear Modulus" value="90407002112.000000"/>
+				<ALPX displayname="Thermal Expansion Coefficient" value="0.000011"/>
+				<DENS displayname="Density" value="1000.075256"/>
+				<KX displayname="Thermal Conductivity" value="1.494900"/>
+				<C displayname="Specific Heat" value="877.960022"/>
+				<SIGXT displayname="Tensile Strength" value="172340000.000000"/>
+				<SIGXC displayname="Compressive Strength" value="551489984.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="S109276">
+			<shaders>
+				<pwshader name="porcelain"/>
+				<cgshader name="texture"/>
+				<swtexture path="images\textures\organic\sponge2.jpg"/>
+			</shaders>
+			<swatchcolor RGB="ffffc0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="Geological Rock" angle="0.000000" scale="3.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic Modulus" value="220589998080.000000"/>
+				<NUXY displayname="Poissons Ratio" value="0.220000"/>
+				<GXY displayname="Shear Modulus" value="90407002112.000000"/>
+				<ALPX displayname="Thermal Expansion Coefficient" value="0.000011"/>
+				<DENS displayname="Density" value="2999.948919"/>
+				<KX displayname="Thermal Conductivity" value="1.494900"/>
+				<C displayname="Specific Heat" value="877.960022"/>
+				<SIGXT displayname="Tensile Strength" value="172340000.000000"/>
+				<SIGXC displayname="Compressive Strength" value="551489984.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="S109277">
+			<shaders>
+				<pwshader name="porcelain"/>
+				<cgshader name="texture"/>
+				<swtexture path="images\textures\organic\sponge2.jpg"/>
+			</shaders>
+			<swatchcolor RGB="ffffc0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="Insulation" angle="0.000000" scale="3.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic Modulus" value="220589998080.000000"/>
+				<NUXY displayname="Poissons Ratio" value="0.220000"/>
+				<GXY displayname="Shear Modulus" value="90407002112.000000"/>
+				<ALPX displayname="Thermal Expansion Coefficient" value="0.000011"/>
+				<DENS displayname="Density" value="1049.899082"/>
+				<KX displayname="Thermal Conductivity" value="1.494900"/>
+				<C displayname="Specific Heat" value="877.960022"/>
+				<SIGXT displayname="Tensile Strength" value="172340000.000000"/>
+				<SIGXC displayname="Compressive Strength" value="551489984.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="500488 Mix">
+			<shaders>
+				<pwshader name="porcelain"/>
+				<cgshader name="texture"/>
+				<swtexture path="images\textures\organic\sponge2.jpg"/>
+			</shaders>
+			<swatchcolor RGB="ffffc0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="Flexible Material" angle="0.000000" scale="3.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic Modulus" value="220589998080.000000"/>
+				<NUXY displayname="Poissons Ratio" value="0.220000"/>
+				<GXY displayname="Shear Modulus" value="90407002112.000000"/>
+				<ALPX displayname="Thermal Expansion Coefficient" value="0.000011"/>
+				<DENS displayname="Density" value="2180.000732"/>
+				<KX displayname="Thermal Conductivity" value="1.494900"/>
+				<C displayname="Specific Heat" value="877.960022"/>
+				<SIGXT displayname="Tensile Strength" value="172340000.000000"/>
+				<SIGXC displayname="Compressive Strength" value="551489984.000000"/>
+			</physicalproperties>
+		</material>
+	</classification>
+	<classification name="Thermal Protection System">
+		<material name="Chartec 4">
+			<shaders>
+				<pwshader2 path="\painted\powder coat\dark powdercoat.p2m" name="dark powdercoat" isNewShader="1"/>
+				<cgshader2 name="darkpowdercoat"/>
+				<pwshader path="\painted\powder coat\dark powdercoat.p2m" name="dark powdercoat" isNewShader="1"/>
+				<cgshader name="darkpowdercoat"/>
+				<swtexture path="images\textures\organic\sponge3.jpg"/>
+			</shaders>
+			<swatchcolor RGB="808080">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI38 (Aluminum)" angle="0.000000" scale="4.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic Modulus" value="220589998080.000000"/>
+				<NUXY displayname="Poissons Ratio" value="0.220000"/>
+				<GXY displayname="Shear Modulus" value="90407002112.000000"/>
+				<ALPX displayname="Thermal Expansion Coefficient" value="0.000011"/>
+				<DENS displayname="Density" value="1245.595703"/>
+				<KX displayname="Thermal Conductivity" value="1.494900"/>
+				<C displayname="Specific Heat" value="877.960022"/>
+				<SIGXT displayname="Tensile Strength" value="172340000.000000"/>
+				<SIGXC displayname="Compressive Strength" value="551489984.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="Chartec">
+			<shaders>
+				<pwshader2 path="\painted\powder coat\dark powdercoat.p2m" name="dark powdercoat" isNewShader="1"/>
+				<cgshader2 name="darkpowdercoat"/>
+				<pwshader path="\painted\powder coat\dark powdercoat.p2m" name="dark powdercoat" isNewShader="1"/>
+				<cgshader name="darkpowdercoat"/>
+				<swtexture path="images\textures\organic\sponge3.jpg"/>
+			</shaders>
+			<swatchcolor RGB="ffffc0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.080000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI38 (Aluminum)" angle="0.000000" scale="4.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic Modulus" value="220589998080.000000"/>
+				<NUXY displayname="Poissons Ratio" value="0.220000"/>
+				<GXY displayname="Shear Modulus" value="90407002112.000000"/>
+				<ALPX displayname="Thermal Expansion Coefficient" value="0.000011"/>
+				<DENS displayname="Density" value="1245.595703"/>
+				<KX displayname="Thermal Conductivity" value="1.494900"/>
+				<C displayname="Specific Heat" value="877.960022"/>
+				<SIGXT displayname="Tensile Strength" value="172340000.000000"/>
+				<SIGXC displayname="Compressive Strength" value="551489984.000000"/>
+			</physicalproperties>
+		</material>
+		<material name="RX-2390">
+			<shaders>
+				<pwshader2 path="\stone\stoneware\porcelaine.p2m" name="porcelain" isNewShader="1"/>
+				<cgshader2 name="porcelain"/>
+				<pwshader path="\stone\stoneware\porcelaine.p2m" name="porcelain" isNewShader="1"/>
+				<cgshader name="porcelain"/>
+				<swtexture path="images\textures\plastic\smooth\syellow.jpg"/>
+			</shaders>
+			<swatchcolor RGB="c0c0c0">
+				<sldcolorswatch:Optical Ambient="1.000000" Transparency="0.000000" Diffuse="1.000000" Specularity="1.000000" Shininess="0.310000" Emission="0.000000"/>
+			</swatchcolor>
+			<xhatch name="ANSI38 (Aluminum)" angle="0.000000" scale="4.000000"/>
+			<physicalproperties>
+				<EX displayname="Elastic Modulus" value="220589998080.000000"/>
+				<NUXY displayname="Poissons Ratio" value="0.220000"/>
+				<GXY displayname="Shear Modulus" value="90407002112.000000"/>
+				<ALPX displayname="Thermal Expansion Coefficient" value="0.000011"/>
+				<DENS displayname="Density" value="1245.595703"/>
+				<KX displayname="Thermal Conductivity" value="1.494900"/>
+				<C displayname="Specific Heat" value="877.960022"/>
+				<SIGXT displayname="Tensile Strength" value="172340000.000000"/>
+				<SIGXC displayname="Compressive Strength" value="551489984.000000"/>
+			</physicalproperties>
+		</material>
+	</classification>
+</mstns:materials>
